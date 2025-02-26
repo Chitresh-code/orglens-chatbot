@@ -9,3 +9,4 @@ langchain
 streamlit
 chroma 
 jq
+sqlite3 >= 3.35.0
