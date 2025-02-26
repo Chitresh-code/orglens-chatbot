@@ -5,10 +5,11 @@ from langgraph.checkpoint.memory import MemorySaver
 from langchain_core.documents import Document
 from langgraph.graph import START, StateGraph
 from typing_extensions import List, TypedDict
-from langchain_chroma import Chroma
+from langchain_core.vectorstores import InMemoryVectorStore
 from dotenv import load_dotenv
 from langchain import hub
 from pathlib import Path
+import streamlit as st
 import os
 
 load_dotenv()
@@ -18,7 +19,7 @@ if not os.environ.get("GOOGLE_API_KEY"):
     
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
 embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
-vector_store = Chroma(embedding_function=embeddings)
+vector_store = InMemoryVectorStore(embeddings=embeddings)
 
 def load_data():
     files = [

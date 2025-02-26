@@ -1,12 +1,10 @@
+streamlit-chromadb-connection
 langchain-google-genai 
 langchain-community 
-langchain-chroma 
 langchain-core
 python-dotenv
 unstructured
 langgraph 
 langchain 
 streamlit
-chroma 
 jq
-sqlite3 >= 3.35.0
