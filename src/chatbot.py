@@ -19,7 +19,7 @@ if not os.environ.get("GOOGLE_API_KEY"):
     
 llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash")
 embeddings = GoogleGenerativeAIEmbeddings(model="models/text-embedding-004")
-vector_store = InMemoryVectorStore(embeddings=embeddings)
+vector_store = InMemoryVectorStore(embedding=embeddings)
 
 def load_data():
     files = [
