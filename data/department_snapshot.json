@@ -1,0 +1,2600 @@
+{
+    "department": {
+        "Medical": {
+            "Error": "Participants for this team is less than 5"
+        },
+        "People Function": {
+            "Combined": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24427 24427",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 21,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24451 24451",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 21,
+                            "Rank": 2
+                        },
+                        {
+                            "Name": "24428 24428",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 20,
+                            "Rank": 3
+                        },
+                        {
+                            "Name": "24422 24422",
+                            "Designation": "Divisional Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 19,
+                            "Rank": 4
+                        },
+                        {
+                            "Name": "24437 24437",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 16,
+                            "Rank": 5
+                        },
+                        {
+                            "Name": "24461 24461",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 16,
+                            "Rank": 6
+                        },
+                        {
+                            "Name": "24419 24419",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Mumbai",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 15,
+                            "Rank": 7
+                        },
+                        {
+                            "Name": "24420 24420",
+                            "Designation": "Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 2,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 15,
+                            "Rank": 8
+                        },
+                        {
+                            "Name": "24498 24498",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 14,
+                            "Rank": 9
+                        },
+                        {
+                            "Name": "24477 24477",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 6,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 14,
+                            "Rank": 10
+                        }
+                    ],
+                    "top_people_count": 10
+                },
+                "connectivity_stats": {
+                    "average_degree": 8,
+                    "average_in_degree": 5,
+                    "average_out_degree": 5,
+                    "degree_distribution": {
+                        "(0-5)": 60,
+                        "(5-10)": 53,
+                        "(10-15)": 26,
+                        "(15-20)": 16,
+                        "(20-25)": 5,
+                        "(25-30)": 3,
+                        "(30-35)": 1,
+                        "(35-40)": 0,
+                        "(40-45)": 2,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 101,
+                        "(5-10)": 43,
+                        "(10-15)": 14,
+                        "(15-20)": 5,
+                        "(20-25)": 3,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 101,
+                        "(5-10)": 39,
+                        "(10-15)": 12,
+                        "(15-20)": 8,
+                        "(20-25)": 2,
+                        "(25-30)": 2,
+                        "(30-35)": 0,
+                        "(35-40)": 1,
+                        "(40-45)": 1,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Weekly": 35,
+                            "Monthly": 30,
+                            "Quarterly": 18,
+                            "Daily": 17
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Monthly to Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(35%)</b> happen on a <b>Weekly</b> basis."
+                        ],
+                        "average_frequncy": 35,
+                        "network_connections": "Monthly to Weekly",
+                        "majority_average_frequncy": "Weekly",
+                        "majority_connections": "35%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "29%",
+                        "pairs": 116
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 11,
+                        "no_connection_perc": "7%",
+                        "silos_count": 0,
+                        "silos_individual_perc": "0%"
+                    }
+                },
+                "relation_patters": {
+                    "network_distributions_professional": [
+                        {
+                            "Reasons": "Execution",
+                            "interaction": "25.06%",
+                            "nodes_connected": 138,
+                            "nodes_not_connected": 28
+                        },
+                        {
+                            "Reasons": "Ideation",
+                            "interaction": "22.16%",
+                            "nodes_connected": 129,
+                            "nodes_not_connected": 37
+                        },
+                        {
+                            "Reasons": "Expertise",
+                            "interaction": "31.45%",
+                            "nodes_connected": 147,
+                            "nodes_not_connected": 19
+                        }
+                    ],
+                    "network_distributions_personal": [
+                        {
+                            "Reasons": "Trust",
+                            "interaction": "11.27%",
+                            "nodes_connected": 106,
+                            "nodes_not_connected": 60
+                        },
+                        {
+                            "Reasons": "Energy",
+                            "interaction": "10.05%",
+                            "nodes_connected": 99,
+                            "nodes_not_connected": 67
+                        }
+                    ],
+                    "network_distributions_headings": [
+                        {
+                            "Reasons": "Professional",
+                            "interaction": "78.67%",
+                            "nodes_connected": 154,
+                            "nodes_not_connected": 12
+                        },
+                        {
+                            "Reasons": "Personal",
+                            "interaction": "21.32%",
+                            "nodes_connected": 120,
+                            "nodes_not_connected": 46
+                        }
+                    ],
+                    "dict_format": {
+                        "Execution": 25.06,
+                        "Ideation": 22.16,
+                        "Expertise": 31.45,
+                        "Trust": 11.27,
+                        "Energy": 10.05
+                    },
+                    "professional": 78.67,
+                    "personal": 21.32
+                }
+            },
+            "Professional": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24451 24451",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 21,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24428 24428",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 20,
+                            "Rank": 2
+                        },
+                        {
+                            "Name": "24427 24427",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 19,
+                            "Rank": 3
+                        },
+                        {
+                            "Name": "24422 24422",
+                            "Designation": "Divisional Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 18,
+                            "Rank": 4
+                        },
+                        {
+                            "Name": "24461 24461",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 16,
+                            "Rank": 5
+                        },
+                        {
+                            "Name": "24419 24419",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Mumbai",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 15,
+                            "Rank": 6
+                        },
+                        {
+                            "Name": "24420 24420",
+                            "Designation": "Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 2,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 15,
+                            "Rank": 7
+                        },
+                        {
+                            "Name": "24437 24437",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 14,
+                            "Rank": 8
+                        },
+                        {
+                            "Name": "24498 24498",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 14,
+                            "Rank": 9
+                        },
+                        {
+                            "Name": "24477 24477",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 6,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 14,
+                            "Rank": 10
+                        }
+                    ],
+                    "top_people_count": 10
+                },
+                "connectivity_stats": {
+                    "average_degree": 8,
+                    "average_in_degree": 4,
+                    "average_out_degree": 4,
+                    "degree_distribution": {
+                        "(0-5)": 65,
+                        "(5-10)": 52,
+                        "(10-15)": 25,
+                        "(15-20)": 15,
+                        "(20-25)": 4,
+                        "(25-30)": 3,
+                        "(30-35)": 0,
+                        "(35-40)": 1,
+                        "(40-45)": 1,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 109,
+                        "(5-10)": 39,
+                        "(10-15)": 11,
+                        "(15-20)": 5,
+                        "(20-25)": 2,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 108,
+                        "(5-10)": 35,
+                        "(10-15)": 10,
+                        "(15-20)": 7,
+                        "(20-25)": 3,
+                        "(25-30)": 1,
+                        "(30-35)": 1,
+                        "(35-40)": 1,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Weekly": 36,
+                            "Monthly": 29,
+                            "Daily": 18,
+                            "Quarterly": 17
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Monthly to Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(36%)</b> happen on a <b>Weekly</b> basis."
+                        ],
+                        "average_frequncy": 36,
+                        "network_connections": "Monthly to Weekly",
+                        "majority_average_frequncy": "Weekly",
+                        "majority_connections": "36%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "26%",
+                        "pairs": 97
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 12,
+                        "no_connection_perc": "7%",
+                        "silos_count": 0,
+                        "silos_individual_perc": "0%"
+                    }
+                }
+            },
+            "Personal": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24428 24428",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24417 24417",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 2
+                        },
+                        {
+                            "Name": "24503 24503",
+                            "Designation": "Senior Executive",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 7,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 3
+                        }
+                    ],
+                    "top_people_count": 3
+                },
+                "connectivity_stats": {
+                    "average_degree": 2,
+                    "average_in_degree": 1,
+                    "average_out_degree": 1,
+                    "degree_distribution": {
+                        "(0-5)": 144,
+                        "(5-10)": 19,
+                        "(10-15)": 1,
+                        "(15-20)": 2,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 158,
+                        "(5-10)": 8,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 154,
+                        "(5-10)": 10,
+                        "(10-15)": 0,
+                        "(15-20)": 2,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Monthly": 35,
+                            "Weekly": 29,
+                            "Quarterly": 22,
+                            "Daily": 14
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Monthly to Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(35%)</b> happen on a <b>Monthly</b> basis."
+                        ],
+                        "average_frequncy": 35,
+                        "network_connections": "Monthly to Weekly",
+                        "majority_average_frequncy": "Monthly",
+                        "majority_connections": "35%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "26%",
+                        "pairs": 27
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 46,
+                        "no_connection_perc": "28%",
+                        "silos_count": 3,
+                        "silos_individual_perc": "7%"
+                    }
+                }
+            },
+            "Execution": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24428 24428",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 14,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24451 24451",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 14,
+                            "Rank": 2
+                        },
+                        {
+                            "Name": "24422 24422",
+                            "Designation": "Divisional Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 13,
+                            "Rank": 3
+                        },
+                        {
+                            "Name": "24420 24420",
+                            "Designation": "Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 2,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 11,
+                            "Rank": 4
+                        },
+                        {
+                            "Name": "24437 24437",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 11,
+                            "Rank": 5
+                        },
+                        {
+                            "Name": "24427 24427",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 9,
+                            "Rank": 6
+                        },
+                        {
+                            "Name": "24591 24591",
+                            "Designation": "Executive Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 9,
+                            "Rank": 7
+                        },
+                        {
+                            "Name": "24419 24419",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Mumbai",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 8,
+                            "Rank": 8
+                        },
+                        {
+                            "Name": "24580 24580",
+                            "Designation": "Divisional Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 8,
+                            "Rank": 9
+                        },
+                        {
+                            "Name": "24461 24461",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 8,
+                            "Rank": 10
+                        },
+                        {
+                            "Name": "24583 24583",
+                            "Designation": "General Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Hosur",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 7,
+                            "Rank": 11
+                        },
+                        {
+                            "Name": "24572 24572",
+                            "Designation": "Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 2,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 12
+                        },
+                        {
+                            "Name": "24483 24483",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 13
+                        }
+                    ],
+                    "top_people_count": 13
+                },
+                "connectivity_stats": {
+                    "average_degree": 4,
+                    "average_in_degree": 2,
+                    "average_out_degree": 2,
+                    "degree_distribution": {
+                        "(0-5)": 120,
+                        "(5-10)": 31,
+                        "(10-15)": 9,
+                        "(15-20)": 5,
+                        "(20-25)": 0,
+                        "(25-30)": 1,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 147,
+                        "(5-10)": 14,
+                        "(10-15)": 5,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 141,
+                        "(5-10)": 17,
+                        "(10-15)": 5,
+                        "(15-20)": 3,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Weekly": 37,
+                            "Monthly": 26,
+                            "Daily": 24,
+                            "Quarterly": 14
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Monthly to Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(37%)</b> happen on a <b>Weekly</b> basis."
+                        ],
+                        "average_frequncy": 37,
+                        "network_connections": "Monthly to Weekly",
+                        "majority_average_frequncy": "Weekly",
+                        "majority_connections": "37%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "14%",
+                        "pairs": 23
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 28,
+                        "no_connection_perc": "17%",
+                        "silos_count": 0,
+                        "silos_individual_perc": "0%"
+                    }
+                }
+            },
+            "Ideation": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24428 24428",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 13,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24451 24451",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 13,
+                            "Rank": 2
+                        },
+                        {
+                            "Name": "24422 24422",
+                            "Designation": "Divisional Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 10,
+                            "Rank": 3
+                        },
+                        {
+                            "Name": "24427 24427",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 9,
+                            "Rank": 4
+                        },
+                        {
+                            "Name": "24572 24572",
+                            "Designation": "Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 2,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 9,
+                            "Rank": 5
+                        },
+                        {
+                            "Name": "24591 24591",
+                            "Designation": "Executive Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 9,
+                            "Rank": 6
+                        },
+                        {
+                            "Name": "24498 24498",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 8,
+                            "Rank": 7
+                        },
+                        {
+                            "Name": "24419 24419",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Mumbai",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 7,
+                            "Rank": 8
+                        },
+                        {
+                            "Name": "24590 24590",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 7,
+                            "Rank": 9
+                        },
+                        {
+                            "Name": "24461 24461",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 7,
+                            "Rank": 10
+                        },
+                        {
+                            "Name": "24440 24440",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 11
+                        },
+                        {
+                            "Name": "24487 24487",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Delhi",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 12
+                        },
+                        {
+                            "Name": "24530 24530",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 13
+                        },
+                        {
+                            "Name": "24437 24437",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 14
+                        }
+                    ],
+                    "top_people_count": 14
+                },
+                "connectivity_stats": {
+                    "average_degree": 3,
+                    "average_in_degree": 2,
+                    "average_out_degree": 2,
+                    "degree_distribution": {
+                        "(0-5)": 125,
+                        "(5-10)": 33,
+                        "(10-15)": 5,
+                        "(15-20)": 1,
+                        "(20-25)": 1,
+                        "(25-30)": 1,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 145,
+                        "(5-10)": 18,
+                        "(10-15)": 3,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 150,
+                        "(5-10)": 12,
+                        "(10-15)": 2,
+                        "(15-20)": 1,
+                        "(20-25)": 1,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Weekly": 35,
+                            "Monthly": 33,
+                            "Quarterly": 21,
+                            "Daily": 11
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Monthly to Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(35%)</b> happen on a <b>Weekly</b> basis."
+                        ],
+                        "average_frequncy": 35,
+                        "network_connections": "Monthly to Weekly",
+                        "majority_average_frequncy": "Weekly",
+                        "majority_connections": "35%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "19%",
+                        "pairs": 27
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 37,
+                        "no_connection_perc": "22%",
+                        "silos_count": 1,
+                        "silos_individual_perc": "1%"
+                    }
+                }
+            },
+            "Expertise": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24477 24477",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 6,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 12,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24427 24427",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 9,
+                            "Rank": 2
+                        },
+                        {
+                            "Name": "24419 24419",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Mumbai",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 8,
+                            "Rank": 3
+                        },
+                        {
+                            "Name": "24473 24473",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 8,
+                            "Rank": 4
+                        },
+                        {
+                            "Name": "24590 24590",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 8,
+                            "Rank": 5
+                        },
+                        {
+                            "Name": "24498 24498",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 8,
+                            "Rank": 6
+                        }
+                    ],
+                    "top_people_count": 6
+                },
+                "connectivity_stats": {
+                    "average_degree": 5,
+                    "average_in_degree": 2,
+                    "average_out_degree": 2,
+                    "degree_distribution": {
+                        "(0-5)": 108,
+                        "(5-10)": 41,
+                        "(10-15)": 9,
+                        "(15-20)": 4,
+                        "(20-25)": 3,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 1,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 142,
+                        "(5-10)": 23,
+                        "(10-15)": 1,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 137,
+                        "(5-10)": 18,
+                        "(10-15)": 6,
+                        "(15-20)": 1,
+                        "(20-25)": 3,
+                        "(25-30)": 0,
+                        "(30-35)": 1,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Weekly": 37,
+                            "Monthly": 28,
+                            "Daily": 19,
+                            "Quarterly": 16
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Monthly to Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(37%)</b> happen on a <b>Weekly</b> basis."
+                        ],
+                        "average_frequncy": 37,
+                        "network_connections": "Monthly to Weekly",
+                        "majority_average_frequncy": "Weekly",
+                        "majority_connections": "37%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "17%",
+                        "pairs": 36
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 19,
+                        "no_connection_perc": "11%",
+                        "silos_count": 2,
+                        "silos_individual_perc": "4%"
+                    }
+                }
+            },
+            "Trust": {
+                "reached_out_table": {
+                    "Error": "There are no individuals who are disproportionately reached out to by others in this network. This could also imply a distributed network, where individuals are reached out uniformly, or a fragmented network where connections are minimal."
+                },
+                "connectivity_stats": {
+                    "average_degree": 2,
+                    "average_in_degree": 1,
+                    "average_out_degree": 1,
+                    "degree_distribution": {
+                        "(0-5)": 155,
+                        "(5-10)": 9,
+                        "(10-15)": 1,
+                        "(15-20)": 1,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 163,
+                        "(5-10)": 3,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 158,
+                        "(5-10)": 7,
+                        "(10-15)": 1,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Monthly": 36,
+                            "Weekly": 30,
+                            "Quarterly": 19,
+                            "Daily": 16
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Monthly to Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(36%)</b> happen on a <b>Monthly</b> basis."
+                        ],
+                        "average_frequncy": 36,
+                        "network_connections": "Monthly to Weekly",
+                        "majority_average_frequncy": "Monthly",
+                        "majority_connections": "36%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "20%",
+                        "pairs": 15
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 60,
+                        "no_connection_perc": "36%",
+                        "silos_count": 8,
+                        "silos_individual_perc": "16%"
+                    }
+                }
+            },
+            "Energy": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24417 24417",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 6,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24428 24428",
+                            "Designation": "Associate Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 5,
+                            "Rank": 2
+                        },
+                        {
+                            "Name": "24487 24487",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Delhi",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 4,
+                            "Rank": 3
+                        },
+                        {
+                            "Name": "24485 24485",
+                            "Designation": "Senior Executive",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 7,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 4,
+                            "Rank": 4
+                        },
+                        {
+                            "Name": "24460 24460",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Hosur",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 4,
+                            "Rank": 5
+                        },
+                        {
+                            "Name": "24461 24461",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 4,
+                            "Rank": 6
+                        },
+                        {
+                            "Name": "24446 24446",
+                            "Designation": "Senior Executive",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 7,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 3,
+                            "Rank": 7
+                        },
+                        {
+                            "Name": "24530 24530",
+                            "Designation": "Senior Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 4,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 3,
+                            "Rank": 8
+                        },
+                        {
+                            "Name": "24580 24580",
+                            "Designation": "Divisional Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 3,
+                            "Rank": 9
+                        },
+                        {
+                            "Name": "24437 24437",
+                            "Designation": "Deputy Group Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 3,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 3,
+                            "Rank": 10
+                        },
+                        {
+                            "Name": "24500 24500",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "People Function",
+                            "location": "Delhi",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 3,
+                            "Rank": 11
+                        },
+                        {
+                            "Name": "24591 24591",
+                            "Designation": "Executive Vice President",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 1,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 3,
+                            "Rank": 12
+                        },
+                        {
+                            "Name": "24480 24480",
+                            "Designation": "Senior Executive",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 7,
+                            "department": "People Function",
+                            "location": "Bengaluru",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 3,
+                            "Rank": 13
+                        }
+                    ],
+                    "top_people_count": 13
+                },
+                "connectivity_stats": {
+                    "average_degree": 1,
+                    "average_in_degree": 1,
+                    "average_out_degree": 1,
+                    "degree_distribution": {
+                        "(0-5)": 156,
+                        "(5-10)": 9,
+                        "(10-15)": 0,
+                        "(15-20)": 1,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 164,
+                        "(5-10)": 2,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 161,
+                        "(5-10)": 4,
+                        "(10-15)": 1,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Monthly": 34,
+                            "Weekly": 28,
+                            "Quarterly": 27,
+                            "Daily": 11
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Almost Monthly</b> basis on an average.",
+                            "Majority of the connections <b>(34%)</b> happen on a <b>Monthly</b> basis."
+                        ],
+                        "average_frequncy": 34,
+                        "network_connections": "Almost Monthly",
+                        "majority_average_frequncy": "Monthly",
+                        "majority_connections": "34%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "23%",
+                        "pairs": 15
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 67,
+                        "no_connection_perc": "40%",
+                        "silos_count": 8,
+                        "silos_individual_perc": "13%"
+                    }
+                }
+            }
+        },
+        "Retail Training": {
+            "Combined": {
+                "reached_out_table": {
+                    "Error": "There are no individuals who are disproportionately reached out to by others in this network. This could also imply a distributed network, where individuals are reached out uniformly, or a fragmented network where connections are minimal."
+                },
+                "connectivity_stats": {
+                    "average_degree": 1,
+                    "average_in_degree": 1,
+                    "average_out_degree": 1,
+                    "degree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Daily": 47,
+                            "Monthly": 33,
+                            "Weekly": 13,
+                            "Quarterly": 7
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Almost Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(47%)</b> happen on a <b>Daily</b> basis."
+                        ],
+                        "average_frequncy": 47,
+                        "network_connections": "Almost Weekly",
+                        "majority_average_frequncy": "Daily",
+                        "majority_connections": "47%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "50%",
+                        "pairs": 2
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 8,
+                        "no_connection_perc": "53%",
+                        "silos_count": 0,
+                        "silos_individual_perc": "0%"
+                    }
+                },
+                "relation_patters": {
+                    "network_distributions_professional": [
+                        {
+                            "Reasons": "Execution",
+                            "interaction": "33.33%",
+                            "nodes_connected": 5,
+                            "nodes_not_connected": 10
+                        },
+                        {
+                            "Reasons": "Ideation",
+                            "interaction": "26.67%",
+                            "nodes_connected": 6,
+                            "nodes_not_connected": 9
+                        },
+                        {
+                            "Reasons": "Expertise",
+                            "interaction": "13.33%",
+                            "nodes_connected": 4,
+                            "nodes_not_connected": 11
+                        }
+                    ],
+                    "network_distributions_personal": [
+                        {
+                            "Reasons": "Trust",
+                            "interaction": "13.33%",
+                            "nodes_connected": 2,
+                            "nodes_not_connected": 13
+                        },
+                        {
+                            "Reasons": "Energy",
+                            "interaction": "13.33%",
+                            "nodes_connected": 4,
+                            "nodes_not_connected": 11
+                        }
+                    ],
+                    "network_distributions_headings": [
+                        {
+                            "Reasons": "Professional",
+                            "interaction": "73.33%",
+                            "nodes_connected": 7,
+                            "nodes_not_connected": 8
+                        },
+                        {
+                            "Reasons": "Personal",
+                            "interaction": "26.66%",
+                            "nodes_connected": 4,
+                            "nodes_not_connected": 11
+                        }
+                    ],
+                    "dict_format": {
+                        "Execution": 33.33,
+                        "Ideation": 26.67,
+                        "Expertise": 13.33,
+                        "Trust": 13.33,
+                        "Energy": 13.33
+                    },
+                    "professional": 73.33,
+                    "personal": 26.66
+                }
+            },
+            "Professional": {
+                "reached_out_table": {
+                    "Error": "There are no individuals who are disproportionately reached out to by others in this network. This could also imply a distributed network, where individuals are reached out uniformly, or a fragmented network where connections are minimal."
+                },
+                "connectivity_stats": {
+                    "average_degree": 1,
+                    "average_in_degree": 1,
+                    "average_out_degree": 1,
+                    "degree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Monthly": 36,
+                            "Daily": 36,
+                            "Weekly": 18,
+                            "Quarterly": 9
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Almost Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(36%)</b> happen on a <b>Monthly and Daily</b> basis."
+                        ],
+                        "average_frequncy": 36,
+                        "network_connections": "Almost Weekly",
+                        "majority_average_frequncy": "Monthly and Daily",
+                        "majority_connections": "36%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "50%",
+                        "pairs": 2
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 8,
+                        "no_connection_perc": "53%",
+                        "silos_count": 0,
+                        "silos_individual_perc": "0%"
+                    }
+                }
+            },
+            "Personal": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24560 24560",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "New-Hire",
+                            "hierarchy_level": 6,
+                            "department": "Retail Training",
+                            "location": "Mumbai",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24452 24452",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "Retail Training",
+                            "location": "Kolkata",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 2
+                        },
+                        {
+                            "Name": "24538 24538",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "New-Hire",
+                            "hierarchy_level": 6,
+                            "department": "Retail Training",
+                            "location": "Kolkata",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 3
+                        }
+                    ],
+                    "top_people_count": 3
+                },
+                "connectivity_stats": {
+                    "average_degree": 0,
+                    "average_in_degree": 0,
+                    "average_out_degree": 0,
+                    "degree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Daily": 75,
+                            "Monthly": 25
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Weekly to Daily</b> basis on an average.",
+                            "Majority of the connections <b>(75%)</b> happen on a <b>Daily</b> basis."
+                        ],
+                        "average_frequncy": 75,
+                        "network_connections": "Weekly to Daily",
+                        "majority_average_frequncy": "Daily",
+                        "majority_connections": "75%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "67%",
+                        "pairs": 1
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 11,
+                        "no_connection_perc": "73%",
+                        "silos_count": 1,
+                        "silos_individual_perc": "13%"
+                    }
+                }
+            },
+            "Execution": {
+                "reached_out_table": {
+                    "Error": "There are no individuals who are disproportionately reached out to by others in this network. This could also imply a distributed network, where individuals are reached out uniformly, or a fragmented network where connections are minimal."
+                },
+                "connectivity_stats": {
+                    "average_degree": 0,
+                    "average_in_degree": 0,
+                    "average_out_degree": 0,
+                    "degree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Monthly": 40,
+                            "Daily": 40,
+                            "Weekly": 20
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Almost Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(40%)</b> happen on a <b>Monthly and Daily</b> basis."
+                        ],
+                        "average_frequncy": 40,
+                        "network_connections": "Almost Weekly",
+                        "majority_average_frequncy": "Monthly and Daily",
+                        "majority_connections": "40%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "80%",
+                        "pairs": 2
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 10,
+                        "no_connection_perc": "67%",
+                        "silos_count": 1,
+                        "silos_individual_perc": "13%"
+                    }
+                }
+            },
+            "Ideation": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24452 24452",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "Retail Training",
+                            "location": "Kolkata",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 2,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24560 24560",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "New-Hire",
+                            "hierarchy_level": 6,
+                            "department": "Retail Training",
+                            "location": "Mumbai",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 2
+                        },
+                        {
+                            "Name": "24589 24589",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 6,
+                            "department": "Retail Training",
+                            "location": "Mumbai",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 3
+                        }
+                    ],
+                    "top_people_count": 3
+                },
+                "connectivity_stats": {
+                    "average_degree": 1,
+                    "average_in_degree": 0,
+                    "average_out_degree": 0,
+                    "degree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Monthly": 50,
+                            "Quarterly": 25,
+                            "Daily": 25
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Monthly to Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(50%)</b> happen on a <b>Monthly</b> basis."
+                        ],
+                        "average_frequncy": 50,
+                        "network_connections": "Monthly to Weekly",
+                        "majority_average_frequncy": "Monthly",
+                        "majority_connections": "50%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "0%",
+                        "pairs": 0
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 9,
+                        "no_connection_perc": "60%",
+                        "silos_count": 1,
+                        "silos_individual_perc": "13%"
+                    }
+                }
+            },
+            "Expertise": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24452 24452",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "Retail Training",
+                            "location": "Kolkata",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24536 24536",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 6,
+                            "department": "Retail Training",
+                            "location": "Ahmedabad",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 2
+                        }
+                    ],
+                    "top_people_count": 2
+                },
+                "connectivity_stats": {
+                    "average_degree": 0,
+                    "average_in_degree": 0,
+                    "average_out_degree": 0,
+                    "degree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Weekly": 50,
+                            "Daily": 50
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Weekly to Daily</b> basis on an average.",
+                            "Majority of the connections <b>(50%)</b> happen on a <b>Weekly and Daily</b> basis."
+                        ],
+                        "average_frequncy": 50,
+                        "network_connections": "Weekly to Daily",
+                        "majority_average_frequncy": "Weekly and Daily",
+                        "majority_connections": "50%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "0%",
+                        "pairs": 0
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 11,
+                        "no_connection_perc": "73%",
+                        "silos_count": 1,
+                        "silos_individual_perc": "13%"
+                    }
+                }
+            },
+            "Trust": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24452 24452",
+                            "Designation": "Manager",
+                            "Tenure": "Tenured",
+                            "hierarchy_level": 5,
+                            "department": "Retail Training",
+                            "location": "Kolkata",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24538 24538",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "New-Hire",
+                            "hierarchy_level": 6,
+                            "department": "Retail Training",
+                            "location": "Kolkata",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 2
+                        }
+                    ],
+                    "top_people_count": 2
+                },
+                "connectivity_stats": {
+                    "average_degree": 0,
+                    "average_in_degree": 0,
+                    "average_out_degree": 0,
+                    "degree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Daily": 100
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Almost Daily</b> basis on an average.",
+                            "Majority of the connections <b>(100%)</b> happen on a <b>Daily</b> basis."
+                        ],
+                        "average_frequncy": 100,
+                        "network_connections": "Almost Daily",
+                        "majority_average_frequncy": "Daily",
+                        "majority_connections": "100%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "100%",
+                        "pairs": 1
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 13,
+                        "no_connection_perc": "87%",
+                        "silos_count": 0,
+                        "silos_individual_perc": "0%"
+                    }
+                }
+            },
+            "Energy": {
+                "reached_out_table": {
+                    "table": [
+                        {
+                            "Name": "24560 24560",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "New-Hire",
+                            "hierarchy_level": 6,
+                            "department": "Retail Training",
+                            "location": "Mumbai",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 1
+                        },
+                        {
+                            "Name": "24538 24538",
+                            "Designation": "Deputy Manager",
+                            "Tenure": "New-Hire",
+                            "hierarchy_level": 6,
+                            "department": "Retail Training",
+                            "location": "Kolkata",
+                            "legal_entity": "Titan Company Limited",
+                            "reaching_out": 1,
+                            "Rank": 2
+                        }
+                    ],
+                    "top_people_count": 2
+                },
+                "connectivity_stats": {
+                    "average_degree": 0,
+                    "average_in_degree": 0,
+                    "average_out_degree": 0,
+                    "degree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "indegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "outdegree_distribution": {
+                        "(0-5)": 15,
+                        "(5-10)": 0,
+                        "(10-15)": 0,
+                        "(15-20)": 0,
+                        "(20-25)": 0,
+                        "(25-30)": 0,
+                        "(30-35)": 0,
+                        "(35-40)": 0,
+                        "(40-45)": 0,
+                        "(45-50)": 0,
+                        "(50-55)": 0,
+                        "(55-60)": 0,
+                        "(60-65)": 0,
+                        "(65-70)": 0,
+                        ">70": 0
+                    },
+                    "connection_freq_obervation": {
+                        "bar_chart": {
+                            "Monthly": 50,
+                            "Daily": 50
+                        },
+                        "observations": [
+                            "The connections in this network happen on a <b>Almost Weekly</b> basis on an average.",
+                            "Majority of the connections <b>(50%)</b> happen on a <b>Monthly and Daily</b> basis."
+                        ],
+                        "average_frequncy": 50,
+                        "network_connections": "Almost Weekly",
+                        "majority_average_frequncy": "Monthly and Daily",
+                        "majority_connections": "50%"
+                    },
+                    "reciprocal_observation": {
+                        "mutual_connections": "0%",
+                        "pairs": 0
+                    },
+                    "disconnected_observation": {
+                        "no_connection_individuals": 11,
+                        "no_connection_perc": "73%",
+                        "silos_count": 1,
+                        "silos_individual_perc": "13%"
+                    }
+                }
+            }
+        },
+        "Training Centre": {
+            "Error": "Participants for this team is less than 5"
+        },
+        "connectivity_stats_table": {
+            "Combined": [
+                {
+                    "Name": "People Function",
+                    "Size": 166,
+                    "Average connection": 8,
+                    "Average frequncy": "Weekly",
+                    "mutual connections": 29,
+                    "disconnected": 11
+                },
+                {
+                    "Name": "Retail Training",
+                    "Size": 15,
+                    "Average connection": 1,
+                    "Average frequncy": "Daily",
+                    "mutual connections": 50,
+                    "disconnected": 8
+                }
+            ],
+            "Professional": [
+                {
+                    "Name": "People Function",
+                    "Size": 166,
+                    "Average connection": 8,
+                    "Average frequncy": "Weekly",
+                    "mutual connections": 26,
+                    "disconnected": 12
+                },
+                {
+                    "Name": "Retail Training",
+                    "Size": 15,
+                    "Average connection": 1,
+                    "Average frequncy": "Monthly and Daily",
+                    "mutual connections": 50,
+                    "disconnected": 8
+                }
+            ],
+            "Personal": [
+                {
+                    "Name": "People Function",
+                    "Size": 166,
+                    "Average connection": 2,
+                    "Average frequncy": "Monthly",
+                    "mutual connections": 26,
+                    "disconnected": 46
+                },
+                {
+                    "Name": "Retail Training",
+                    "Size": 15,
+                    "Average connection": 0,
+                    "Average frequncy": "Daily",
+                    "mutual connections": 67,
+                    "disconnected": 11
+                }
+            ],
+            "Execution": [
+                {
+                    "Name": "People Function",
+                    "Size": 166,
+                    "Average connection": 4,
+                    "Average frequncy": "Weekly",
+                    "mutual connections": 14,
+                    "disconnected": 28
+                },
+                {
+                    "Name": "Retail Training",
+                    "Size": 15,
+                    "Average connection": 0,
+                    "Average frequncy": "Monthly and Daily",
+                    "mutual connections": 80,
+                    "disconnected": 10
+                }
+            ],
+            "Ideation": [
+                {
+                    "Name": "People Function",
+                    "Size": 166,
+                    "Average connection": 3,
+                    "Average frequncy": "Weekly",
+                    "mutual connections": 19,
+                    "disconnected": 37
+                },
+                {
+                    "Name": "Retail Training",
+                    "Size": 15,
+                    "Average connection": 1,
+                    "Average frequncy": "Monthly",
+                    "mutual connections": 0,
+                    "disconnected": 9
+                }
+            ],
+            "Expertise": [
+                {
+                    "Name": "People Function",
+                    "Size": 166,
+                    "Average connection": 5,
+                    "Average frequncy": "Weekly",
+                    "mutual connections": 17,
+                    "disconnected": 19
+                },
+                {
+                    "Name": "Retail Training",
+                    "Size": 15,
+                    "Average connection": 0,
+                    "Average frequncy": "Weekly and Daily",
+                    "mutual connections": 0,
+                    "disconnected": 11
+                }
+            ],
+            "Trust": [
+                {
+                    "Name": "People Function",
+                    "Size": 166,
+                    "Average connection": 2,
+                    "Average frequncy": "Monthly",
+                    "mutual connections": 20,
+                    "disconnected": 60
+                },
+                {
+                    "Name": "Retail Training",
+                    "Size": 15,
+                    "Average connection": 0,
+                    "Average frequncy": "Daily",
+                    "mutual connections": 100,
+                    "disconnected": 13
+                }
+            ],
+            "Energy": [
+                {
+                    "Name": "People Function",
+                    "Size": 166,
+                    "Average connection": 1,
+                    "Average frequncy": "Monthly",
+                    "mutual connections": 23,
+                    "disconnected": 67
+                },
+                {
+                    "Name": "Retail Training",
+                    "Size": 15,
+                    "Average connection": 0,
+                    "Average frequncy": "Monthly and Daily",
+                    "mutual connections": 0,
+                    "disconnected": 11
+                }
+            ]
+        },
+        "relation_pattern_table": {
+            "Combined": [
+                {
+                    "Name": "People Function",
+                    "size": 166,
+                    "professional": 78.67,
+                    "personal": 21.32,
+                    "Execution": 25.06,
+                    "Ideation": 22.16,
+                    "Expertise": 31.45,
+                    "Trust": 11.27,
+                    "Energy": 10.05
+                },
+                {
+                    "Name": "Retail Training",
+                    "size": 15,
+                    "professional": 73.33,
+                    "personal": 26.66,
+                    "Execution": 33.33,
+                    "Ideation": 26.67,
+                    "Expertise": 13.33,
+                    "Trust": 13.33,
+                    "Energy": 13.33
+                }
+            ]
+        }
+    }
+}

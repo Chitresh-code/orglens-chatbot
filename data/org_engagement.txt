@@ -1,0 +1,219 @@
+highly engaged.count: 41
+highly engaged.perc: 22
+highly engaged.avg_connections: 18
+highly engaged.avg_frequency: Weekly
+highly engaged.combined_perc: 0
+highly engaged.work_perc: 23
+highly engaged.innovation_perc: 22
+highly engaged.expertise_perc: 31
+highly engaged.trust_perc: 13
+highly engaged.energy_perc: 11
+highly engaged.professional_perc: 76
+highly engaged.personal_perc: 24
+highly engaged.reportee_rm_conn_perc: 93
+highly engaged.avg_reportee_rm_conn: 3
+highly engaged.personal_conn_rm_perc: 28
+highly engaged.professional_conn_rm_perc: 72
+highly engaged.rm_reciprocal_perc: 58
+highly engaged.rm_reciprocal: 22
+highly engaged.interpersonal_nodes_count: 40
+highly engaged.interpersonal_bonds: 98
+highly engaged.avg_interpersonal_bonds: 2
+highly engaged.reciprocal_interpersonal_perc: 72
+highly engaged.reciprocal_interpersonal: 29
+highly engaged.designation_count.Deputy Manager: 9
+highly engaged.designation_count.Manager: 6
+highly engaged.designation_count.Executive: 1
+highly engaged.designation_count.Senior Executive: 11
+highly engaged.designation_count.Group Manager: 1
+highly engaged.designation_count.Deputy Group Manager: 5
+highly engaged.designation_count.Senior Manager: 6
+highly engaged.designation_count.Associate Vice President: 2
+highly engaged.demographics_count.hierarchy_level.1: 2
+highly engaged.demographics_count.hierarchy_level.10: 1
+highly engaged.demographics_count.hierarchy_level.2: 1
+highly engaged.demographics_count.hierarchy_level.3: 5
+highly engaged.demographics_count.hierarchy_level.4: 6
+highly engaged.demographics_count.hierarchy_level.5: 6
+highly engaged.demographics_count.hierarchy_level.6: 9
+highly engaged.demographics_count.hierarchy_level.7: 10
+highly engaged.demographics_count.hierarchy_level.8: 1
+highly engaged.demographics_count.hierarchy_level.9: 0
+highly engaged.demographics_count.department.Medical: 0
+highly engaged.demographics_count.department.People Function: 38
+highly engaged.demographics_count.department.Retail Training: 2
+highly engaged.demographics_count.department.Training Centre: 1
+highly engaged.demographics_count.location.Ahmedabad: 0
+highly engaged.demographics_count.location.Bengaluru: 20
+highly engaged.demographics_count.location.Chikkaballapura: 0
+highly engaged.demographics_count.location.Coimbatore: 1
+highly engaged.demographics_count.location.Delhi: 4
+highly engaged.demographics_count.location.Dubai: 0
+highly engaged.demographics_count.location.Hosur: 7
+highly engaged.demographics_count.location.Hyderabad: 0
+highly engaged.demographics_count.location.Indore: 0
+highly engaged.demographics_count.location.Kolkata: 3
+highly engaged.demographics_count.location.Lucknow: 0
+highly engaged.demographics_count.location.Majitar: 0
+highly engaged.demographics_count.location.Mumbai: 0
+highly engaged.demographics_count.location.Pantnagar: 3
+highly engaged.demographics_count.location.Pune: 0
+highly engaged.demographics_count.location.Raipur: 0
+highly engaged.demographics_count.location.Roorkee: 3
+highly engaged.demographics_count.legal_entity.Titan Company Limited: 41
+highly engaged.demographics_count.legal_entity.Titan Engineering and Automation Limited: 0
+highly engaged.demographics_count.organisation.Not Applicable: 0
+highly engaged.demographics_count.gender.Male: 17
+highly engaged.demographics_count.gender.Female: 24
+highly engaged.demographics_count.tenure.Tenured: 32
+highly engaged.demographics_count.tenure.New: 9
+avg_score: 0.19692415942933805
+engaged.count: 70
+engaged.perc: 38
+engaged.avg_connections: 10
+engaged.avg_frequency: Weekly
+engaged.combined_perc: 0
+engaged.work_perc: 26
+engaged.innovation_perc: 24
+engaged.expertise_perc: 29
+engaged.trust_perc: 11
+engaged.energy_perc: 10
+engaged.professional_perc: 79
+engaged.personal_perc: 21
+engaged.reportee_rm_conn_perc: 46
+engaged.avg_reportee_rm_conn: 1
+engaged.personal_conn_rm_perc: 14
+engaged.professional_conn_rm_perc: 86
+engaged.rm_reciprocal_perc: 6
+engaged.rm_reciprocal: 2
+engaged.interpersonal_nodes_count: 35
+engaged.interpersonal_bonds: 50
+engaged.avg_interpersonal_bonds: 1
+engaged.reciprocal_interpersonal_perc: 43
+engaged.reciprocal_interpersonal: 15
+engaged.designation_count.Deputy Manager: 16
+engaged.designation_count.Senior Manager: 8
+engaged.designation_count.Manager: 13
+engaged.designation_count.Deputy Group Manager: 6
+engaged.designation_count.Divisional Manager: 4
+engaged.designation_count.Senior Executive: 12
+engaged.designation_count.Group Manager: 3
+engaged.designation_count.Associate Senior Manager: 1
+engaged.designation_count.General Manager: 1
+engaged.designation_count.Executive: 2
+engaged.designation_count.Executive Vice President: 1
+engaged.designation_count.Lead: 1
+engaged.designation_count.XX: 1
+engaged.designation_count.Associate Lead: 1
+engaged.demographics_count.hierarchy_level.1: 6
+engaged.demographics_count.hierarchy_level.10: 1
+engaged.demographics_count.hierarchy_level.2: 3
+engaged.demographics_count.hierarchy_level.3: 6
+engaged.demographics_count.hierarchy_level.4: 9
+engaged.demographics_count.hierarchy_level.5: 13
+engaged.demographics_count.hierarchy_level.6: 16
+engaged.demographics_count.hierarchy_level.7: 13
+engaged.demographics_count.hierarchy_level.8: 3
+engaged.demographics_count.hierarchy_level.9: 0
+engaged.demographics_count.department.Medical: 1
+engaged.demographics_count.department.People Function: 67
+engaged.demographics_count.department.Retail Training: 2
+engaged.demographics_count.department.Training Centre: 0
+engaged.demographics_count.location.Ahmedabad: 1
+engaged.demographics_count.location.Bengaluru: 34
+engaged.demographics_count.location.Chikkaballapura: 3
+engaged.demographics_count.location.Coimbatore: 1
+engaged.demographics_count.location.Delhi: 4
+engaged.demographics_count.location.Dubai: 3
+engaged.demographics_count.location.Hosur: 16
+engaged.demographics_count.location.Hyderabad: 0
+engaged.demographics_count.location.Indore: 0
+engaged.demographics_count.location.Kolkata: 0
+engaged.demographics_count.location.Lucknow: 0
+engaged.demographics_count.location.Majitar: 0
+engaged.demographics_count.location.Mumbai: 6
+engaged.demographics_count.location.Pantnagar: 1
+engaged.demographics_count.location.Pune: 0
+engaged.demographics_count.location.Raipur: 0
+engaged.demographics_count.location.Roorkee: 1
+engaged.demographics_count.legal_entity.Titan Company Limited: 67
+engaged.demographics_count.legal_entity.Titan Engineering and Automation Limited: 3
+engaged.demographics_count.organisation.Not Applicable: 0
+engaged.demographics_count.gender.Male: 39
+engaged.demographics_count.gender.Female: 31
+engaged.demographics_count.tenure.Tenured: 58
+engaged.demographics_count.tenure.New: 12
+less engaged.count: 74
+less engaged.perc: 40
+less engaged.avg_connections: 4
+less engaged.avg_frequency: Monthly
+less engaged.combined_perc: 0
+less engaged.work_perc: 26
+less engaged.innovation_perc: 18
+less engaged.expertise_perc: 41
+less engaged.trust_perc: 7
+less engaged.energy_perc: 7
+less engaged.professional_perc: 85
+less engaged.personal_perc: 14
+less engaged.reportee_rm_conn_perc: 7
+less engaged.avg_reportee_rm_conn: 0
+less engaged.personal_conn_rm_perc: 20
+less engaged.professional_conn_rm_perc: 80
+less engaged.rm_reciprocal_perc: 0
+less engaged.rm_reciprocal: 0
+less engaged.interpersonal_nodes_count: 2
+less engaged.interpersonal_bonds: 3
+less engaged.avg_interpersonal_bonds: 0
+less engaged.reciprocal_interpersonal_perc: 0
+less engaged.reciprocal_interpersonal: 0
+less engaged.designation_count.Deputy Manager: 26
+less engaged.designation_count.Executive: 1
+less engaged.designation_count.Senior Manager: 9
+less engaged.designation_count.Group Manager: 1
+less engaged.designation_count.General Manager: 1
+less engaged.designation_count.Senior Executive: 10
+less engaged.designation_count.Lead: 2
+less engaged.designation_count.Manager: 15
+less engaged.designation_count.Associate Officer: 1
+less engaged.designation_count.Deputy Group Manager: 2
+less engaged.designation_count.Associate Lead: 3
+less engaged.designation_count.Divisional Manager: 2
+less engaged.designation_count.Senior Lead: 1
+less engaged.demographics_count.hierarchy_level.1: 2
+less engaged.demographics_count.hierarchy_level.10: 1
+less engaged.demographics_count.hierarchy_level.2: 2
+less engaged.demographics_count.hierarchy_level.3: 2
+less engaged.demographics_count.hierarchy_level.4: 10
+less engaged.demographics_count.hierarchy_level.5: 15
+less engaged.demographics_count.hierarchy_level.6: 27
+less engaged.demographics_count.hierarchy_level.7: 10
+less engaged.demographics_count.hierarchy_level.8: 4
+less engaged.demographics_count.hierarchy_level.9: 1
+less engaged.demographics_count.department.Medical: 1
+less engaged.demographics_count.department.People Function: 61
+less engaged.demographics_count.department.Retail Training: 11
+less engaged.demographics_count.department.Training Centre: 1
+less engaged.demographics_count.location.Ahmedabad: 0
+less engaged.demographics_count.location.Bengaluru: 33
+less engaged.demographics_count.location.Chikkaballapura: 1
+less engaged.demographics_count.location.Coimbatore: 0
+less engaged.demographics_count.location.Delhi: 1
+less engaged.demographics_count.location.Dubai: 1
+less engaged.demographics_count.location.Hosur: 13
+less engaged.demographics_count.location.Hyderabad: 3
+less engaged.demographics_count.location.Indore: 1
+less engaged.demographics_count.location.Kolkata: 6
+less engaged.demographics_count.location.Lucknow: 2
+less engaged.demographics_count.location.Majitar: 2
+less engaged.demographics_count.location.Mumbai: 6
+less engaged.demographics_count.location.Pantnagar: 3
+less engaged.demographics_count.location.Pune: 1
+less engaged.demographics_count.location.Raipur: 1
+less engaged.demographics_count.location.Roorkee: 0
+less engaged.demographics_count.legal_entity.Titan Company Limited: 67
+less engaged.demographics_count.legal_entity.Titan Engineering and Automation Limited: 7
+less engaged.demographics_count.organisation.Not Applicable: 0
+less engaged.demographics_count.gender.Male: 30
+less engaged.demographics_count.gender.Female: 44
+less engaged.demographics_count.tenure.Tenured: 59
+less engaged.demographics_count.tenure.New: 15

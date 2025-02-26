@@ -1,0 +1,281 @@
+{
+    "highly engaged": {
+        "count": 41,
+        "perc": 22,
+        "avg_connections": 18,
+        "avg_frequency": "Weekly",
+        "combined_perc": 0,
+        "work_perc": 23,
+        "innovation_perc": 22,
+        "expertise_perc": 31,
+        "trust_perc": 13,
+        "energy_perc": 11,
+        "professional_perc": 76,
+        "personal_perc": 24,
+        "reportee_rm_conn_perc": 93,
+        "avg_reportee_rm_conn": 3,
+        "personal_conn_rm_perc": 28,
+        "professional_conn_rm_perc": 72,
+        "rm_reciprocal_perc": 58,
+        "rm_reciprocal": 22,
+        "interpersonal_nodes_count": 40,
+        "interpersonal_bonds": 98,
+        "avg_interpersonal_bonds": 2,
+        "reciprocal_interpersonal_perc": 72,
+        "reciprocal_interpersonal": 29,
+        "designation_count": {
+            "Deputy Manager": 9,
+            "Manager": 6,
+            "Executive": 1,
+            "Senior Executive": 11,
+            "Group Manager": 1,
+            "Deputy Group Manager": 5,
+            "Senior Manager": 6,
+            "Associate Vice President": 2
+        },
+        "demographics_count": {
+            "hierarchy_level": {
+                "1": 2,
+                "10": 1,
+                "2": 1,
+                "3": 5,
+                "4": 6,
+                "5": 6,
+                "6": 9,
+                "7": 10,
+                "8": 1,
+                "9": 0
+            },
+            "department": {
+                "Medical": 0,
+                "People Function": 38,
+                "Retail Training": 2,
+                "Training Centre": 1
+            },
+            "location": {
+                "Ahmedabad": 0,
+                "Bengaluru": 20,
+                "Chikkaballapura": 0,
+                "Coimbatore": 1,
+                "Delhi": 4,
+                "Dubai": 0,
+                "Hosur": 7,
+                "Hyderabad": 0,
+                "Indore": 0,
+                "Kolkata": 3,
+                "Lucknow": 0,
+                "Majitar": 0,
+                "Mumbai": 0,
+                "Pantnagar": 3,
+                "Pune": 0,
+                "Raipur": 0,
+                "Roorkee": 3
+            },
+            "legal_entity": {
+                "Titan Company Limited": 41,
+                "Titan Engineering and Automation Limited": 0
+            },
+            "organisation": {
+                "Not Applicable": 0
+            },
+            "gender": {
+                "Male": 17,
+                "Female": 24
+            },
+            "tenure": {
+                "Tenured": 32,
+                "New": 9
+            }
+        }
+    },
+    "avg_score": 0.19692415942933805,
+    "engaged": {
+        "count": 70,
+        "perc": 38,
+        "avg_connections": 10,
+        "avg_frequency": "Weekly",
+        "combined_perc": 0,
+        "work_perc": 26,
+        "innovation_perc": 24,
+        "expertise_perc": 29,
+        "trust_perc": 11,
+        "energy_perc": 10,
+        "professional_perc": 79,
+        "personal_perc": 21,
+        "reportee_rm_conn_perc": 46,
+        "avg_reportee_rm_conn": 1,
+        "personal_conn_rm_perc": 14,
+        "professional_conn_rm_perc": 86,
+        "rm_reciprocal_perc": 6,
+        "rm_reciprocal": 2,
+        "interpersonal_nodes_count": 35,
+        "interpersonal_bonds": 50,
+        "avg_interpersonal_bonds": 1,
+        "reciprocal_interpersonal_perc": 43,
+        "reciprocal_interpersonal": 15,
+        "designation_count": {
+            "Deputy Manager": 16,
+            "Senior Manager": 8,
+            "Manager": 13,
+            "Deputy Group Manager": 6,
+            "Divisional Manager": 4,
+            "Senior Executive": 12,
+            "Group Manager": 3,
+            "Associate Senior Manager": 1,
+            "General Manager": 1,
+            "Executive": 2,
+            "Executive Vice President": 1,
+            "Lead": 1,
+            "XX": 1,
+            "Associate Lead": 1
+        },
+        "demographics_count": {
+            "hierarchy_level": {
+                "1": 6,
+                "10": 1,
+                "2": 3,
+                "3": 6,
+                "4": 9,
+                "5": 13,
+                "6": 16,
+                "7": 13,
+                "8": 3,
+                "9": 0
+            },
+            "department": {
+                "Medical": 1,
+                "People Function": 67,
+                "Retail Training": 2,
+                "Training Centre": 0
+            },
+            "location": {
+                "Ahmedabad": 1,
+                "Bengaluru": 34,
+                "Chikkaballapura": 3,
+                "Coimbatore": 1,
+                "Delhi": 4,
+                "Dubai": 3,
+                "Hosur": 16,
+                "Hyderabad": 0,
+                "Indore": 0,
+                "Kolkata": 0,
+                "Lucknow": 0,
+                "Majitar": 0,
+                "Mumbai": 6,
+                "Pantnagar": 1,
+                "Pune": 0,
+                "Raipur": 0,
+                "Roorkee": 1
+            },
+            "legal_entity": {
+                "Titan Company Limited": 67,
+                "Titan Engineering and Automation Limited": 3
+            },
+            "organisation": {
+                "Not Applicable": 0
+            },
+            "gender": {
+                "Male": 39,
+                "Female": 31
+            },
+            "tenure": {
+                "Tenured": 58,
+                "New": 12
+            }
+        }
+    },
+    "less engaged": {
+        "count": 74,
+        "perc": 40,
+        "avg_connections": 4,
+        "avg_frequency": "Monthly",
+        "combined_perc": 0,
+        "work_perc": 26,
+        "innovation_perc": 18,
+        "expertise_perc": 41,
+        "trust_perc": 7,
+        "energy_perc": 7,
+        "professional_perc": 85,
+        "personal_perc": 14,
+        "reportee_rm_conn_perc": 7,
+        "avg_reportee_rm_conn": 0,
+        "personal_conn_rm_perc": 20,
+        "professional_conn_rm_perc": 80,
+        "rm_reciprocal_perc": 0,
+        "rm_reciprocal": 0,
+        "interpersonal_nodes_count": 2,
+        "interpersonal_bonds": 3,
+        "avg_interpersonal_bonds": 0,
+        "reciprocal_interpersonal_perc": 0,
+        "reciprocal_interpersonal": 0,
+        "designation_count": {
+            "Deputy Manager": 26,
+            "Executive": 1,
+            "Senior Manager": 9,
+            "Group Manager": 1,
+            "General Manager": 1,
+            "Senior Executive": 10,
+            "Lead": 2,
+            "Manager": 15,
+            "Associate Officer": 1,
+            "Deputy Group Manager": 2,
+            "Associate Lead": 3,
+            "Divisional Manager": 2,
+            "Senior Lead": 1
+        },
+        "demographics_count": {
+            "hierarchy_level": {
+                "1": 2,
+                "10": 1,
+                "2": 2,
+                "3": 2,
+                "4": 10,
+                "5": 15,
+                "6": 27,
+                "7": 10,
+                "8": 4,
+                "9": 1
+            },
+            "department": {
+                "Medical": 1,
+                "People Function": 61,
+                "Retail Training": 11,
+                "Training Centre": 1
+            },
+            "location": {
+                "Ahmedabad": 0,
+                "Bengaluru": 33,
+                "Chikkaballapura": 1,
+                "Coimbatore": 0,
+                "Delhi": 1,
+                "Dubai": 1,
+                "Hosur": 13,
+                "Hyderabad": 3,
+                "Indore": 1,
+                "Kolkata": 6,
+                "Lucknow": 2,
+                "Majitar": 2,
+                "Mumbai": 6,
+                "Pantnagar": 3,
+                "Pune": 1,
+                "Raipur": 1,
+                "Roorkee": 0
+            },
+            "legal_entity": {
+                "Titan Company Limited": 67,
+                "Titan Engineering and Automation Limited": 7
+            },
+            "organisation": {
+                "Not Applicable": 0
+            },
+            "gender": {
+                "Male": 30,
+                "Female": 44
+            },
+            "tenure": {
+                "Tenured": 59,
+                "New": 15
+            }
+        }
+    }
+}

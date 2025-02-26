@@ -1,0 +1,966 @@
+{
+    "dashboard_values": {
+        "distribution": {
+            "gender": {
+                "Female": 53.51,
+                "Male": 46.49
+            },
+            "tenure": {
+                "Tenured": 80.54,
+                "New-Hire": 19.46
+            },
+            "hierarchy_level": {
+                "HL-6": 28.11,
+                "HL-5": 18.38,
+                "HL-7": 17.84,
+                "HL-4": 13.51,
+                "HL-3": 7.03,
+                "HL-1": 5.41,
+                "HL-8": 4.32,
+                "HL-2": 3.24,
+                "HL-10": 1.62,
+                "Others": 0.54
+            },
+            "department": {
+                "People Function": 89.73,
+                "Retail Training": 8.11,
+                "Medical": 1.08,
+                "Training Centre": 1.08
+            },
+            "location": {
+                "Bengaluru": 47.03,
+                "Hosur": 19.46,
+                "Mumbai": 6.49,
+                "Delhi": 4.86,
+                "Kolkata": 4.86,
+                "Pantnagar": 3.78,
+                "Dubai": 2.16,
+                "Roorkee": 2.16,
+                "Chikkaballapura": 2.16,
+                "Hyderabad": 1.62,
+                "Majitar": 1.08,
+                "Coimbatore": 1.08,
+                "Lucknow": 1.08,
+                "Others": 2.16
+            },
+            "legal_entity": {
+                "Titan Company Limited": 94.59,
+                "Titan Engineering and Automation Limited": 5.41
+            }
+        },
+        "entity_distribution": {
+            "gender": {
+                "table": [
+                    {
+                        "entity": "Female",
+                        "count": 99,
+                        "percent": 53.51
+                    },
+                    {
+                        "entity": "Male",
+                        "count": 86,
+                        "percent": 46.49
+                    }
+                ],
+                "count": 2
+            },
+            "tenure": {
+                "table": [
+                    {
+                        "entity": "Tenured",
+                        "count": 149,
+                        "percent": 80.54
+                    },
+                    {
+                        "entity": "New-Hire",
+                        "count": 36,
+                        "percent": 19.46
+                    }
+                ],
+                "count": 2
+            },
+            "hierarchy_level": {
+                "table": [
+                    {
+                        "entity": "HL-6",
+                        "count": 52,
+                        "percent": 28.11
+                    },
+                    {
+                        "entity": "HL-5",
+                        "count": 34,
+                        "percent": 18.38
+                    },
+                    {
+                        "entity": "HL-7",
+                        "count": 33,
+                        "percent": 17.84
+                    },
+                    {
+                        "entity": "HL-4",
+                        "count": 25,
+                        "percent": 13.51
+                    },
+                    {
+                        "entity": "HL-3",
+                        "count": 13,
+                        "percent": 7.03
+                    },
+                    {
+                        "entity": "HL-1",
+                        "count": 10,
+                        "percent": 5.41
+                    },
+                    {
+                        "entity": "HL-8",
+                        "count": 8,
+                        "percent": 4.32
+                    },
+                    {
+                        "entity": "HL-2",
+                        "count": 6,
+                        "percent": 3.24
+                    },
+                    {
+                        "entity": "HL-10",
+                        "count": 3,
+                        "percent": 1.62
+                    },
+                    {
+                        "entity": "HL-9",
+                        "count": 1,
+                        "percent": 0.54
+                    }
+                ],
+                "count": 10
+            },
+            "department": {
+                "table": [
+                    {
+                        "entity": "People Function",
+                        "count": 166,
+                        "percent": 89.73
+                    },
+                    {
+                        "entity": "Retail Training",
+                        "count": 15,
+                        "percent": 8.11
+                    },
+                    {
+                        "entity": "Medical",
+                        "count": 2,
+                        "percent": 1.08
+                    },
+                    {
+                        "entity": "Training Centre",
+                        "count": 2,
+                        "percent": 1.08
+                    }
+                ],
+                "count": 4
+            },
+            "location": {
+                "table": [
+                    {
+                        "entity": "Bengaluru",
+                        "count": 87,
+                        "percent": 47.03
+                    },
+                    {
+                        "entity": "Hosur",
+                        "count": 36,
+                        "percent": 19.46
+                    },
+                    {
+                        "entity": "Mumbai",
+                        "count": 12,
+                        "percent": 6.49
+                    },
+                    {
+                        "entity": "Delhi",
+                        "count": 9,
+                        "percent": 4.86
+                    },
+                    {
+                        "entity": "Kolkata",
+                        "count": 9,
+                        "percent": 4.86
+                    },
+                    {
+                        "entity": "Pantnagar",
+                        "count": 7,
+                        "percent": 3.78
+                    },
+                    {
+                        "entity": "Dubai",
+                        "count": 4,
+                        "percent": 2.16
+                    },
+                    {
+                        "entity": "Roorkee",
+                        "count": 4,
+                        "percent": 2.16
+                    },
+                    {
+                        "entity": "Chikkaballapura",
+                        "count": 4,
+                        "percent": 2.16
+                    },
+                    {
+                        "entity": "Hyderabad",
+                        "count": 3,
+                        "percent": 1.62
+                    },
+                    {
+                        "entity": "Majitar",
+                        "count": 2,
+                        "percent": 1.08
+                    },
+                    {
+                        "entity": "Coimbatore",
+                        "count": 2,
+                        "percent": 1.08
+                    },
+                    {
+                        "entity": "Lucknow",
+                        "count": 2,
+                        "percent": 1.08
+                    },
+                    {
+                        "entity": "Pune",
+                        "count": 1,
+                        "percent": 0.54
+                    },
+                    {
+                        "entity": "Raipur",
+                        "count": 1,
+                        "percent": 0.54
+                    },
+                    {
+                        "entity": "Indore",
+                        "count": 1,
+                        "percent": 0.54
+                    },
+                    {
+                        "entity": "Ahmedabad",
+                        "count": 1,
+                        "percent": 0.54
+                    }
+                ],
+                "count": 17
+            },
+            "legal_entity": {
+                "table": [
+                    {
+                        "entity": "Titan Company Limited",
+                        "count": 175,
+                        "percent": 94.59
+                    },
+                    {
+                        "entity": "Titan Engineering and Automation Limited",
+                        "count": 10,
+                        "percent": 5.41
+                    }
+                ],
+                "count": 2
+            }
+        },
+        "total_participants": 185,
+        "total_respondents": 100,
+        "non_respondents": 85,
+        "participation_rate_perc": 54,
+        "participation_bar_chart": {
+            "Respondents": 54.05,
+            "Non-Respondents": 45.95
+        },
+        "count_table": {
+            "Gender": 2,
+            "Tenure": 2,
+            "hierarchy Level": 10,
+            "Department": 4,
+            "Location": 17,
+            "Legal Entity": 2
+        },
+        "observation": [
+            "Individuals who joined post <b>2024-01-01 as New Hires</b>",
+            "Hierarchy Bands <b>1 as Top Leadership</b>"
+        ]
+    },
+    "employee_connectivity": {
+        "professional": {
+            "percent": 78.41,
+            "work": 24.86,
+            "innovation": 22.23,
+            "expertise": 31.32,
+            "disconnected_percent": 0.0,
+            "atleast_one_conn_num": 168,
+            "atleast_one_conn_percent": 90.81,
+            "atleast_one_strong_conn_num": 62,
+            "atleast_one_strong_conn_percent": 33.51,
+            "avg_strong_tenure": 4.99,
+            "avg_weak_tenure": 7.48
+        },
+        "personal": {
+            "percent": 21.59,
+            "trust": 11.43,
+            "energy": 10.16,
+            "disconnected_percent": 6.49,
+            "atleast_one_conn_num": 128,
+            "atleast_one_conn_percent": 69.19,
+            "atleast_one_strong_conn_num": 23,
+            "atleast_one_strong_conn_percent": 12.43,
+            "avg_strong_tenure": 3.24,
+            "avg_weak_tenure": 7.13
+        },
+        "strong_conn_percent": 10.81,
+        "atleast_one_conn_percent": 5.95,
+        "avg_strong_tenure": 3.16,
+        "avg_weak_tenure": 7.07,
+        "conn_type": "slightly imbalanced"
+    },
+    "manager_reportee": {
+        "pro_reportee_to_rm_count": 73,
+        "pro_reportee_to_rm_percent": 39.67,
+        "per_reportee_to_rm_count": 31,
+        "per_reportee_to_rm_percent": 16.85,
+        "reportee_to_rm_count": 29,
+        "reportee_to_rm_percent": 15.76,
+        "pro_rm_to_reportee_count": 17,
+        "pro_rm_to_reportee_percent": 100.0,
+        "per_rm_to_reportee_count": 5,
+        "per_rm_to_reportee_percent": 29.41,
+        "rm_to_reportee_count": 5,
+        "rm_to_reportee_percent": 29.41,
+        "pro_connected_leaders_count": 4,
+        "per_connected_leaders_count": 2,
+        "connected_leaders_count": 2,
+        "pro_connected_leaders_percent": 40.0,
+        "per_connected_leaders_percent": 20.0,
+        "connected_leaders_percent": 20.0,
+        "rm_to_reportee": {
+            "all_reportees_count": 0,
+            "some_reportees_count": 17,
+            "none_reportees_count": 31,
+            "all_reportees_percent": 0.0,
+            "some_reportees_percent": 56.67,
+            "none_reportees_percent": 103.33
+        },
+        "reportee_to_rm": {
+            "all_reportees_count": 0,
+            "some_reportees_count": 17,
+            "none_reportees_count": 31,
+            "all_reportees_percent": 0.0,
+            "some_reportees_percent": 35.42,
+            "none_reportees_percent": 64.58
+        },
+        "rm_count": 48,
+        "min_team_size": 2,
+        "max_team_size": 11
+    },
+    "leadership": {
+        "total_leaders_count": 16,
+        "leaders_response_count": 6,
+        "leaders_response_percent": 37.5,
+        "avg_connectivity": 2.6566666666666667,
+        "combined_connectivity_rank": "sparsely",
+        "professional_connectivity_rank": "lesser",
+        "professional_compare_percent": 100.0,
+        "personal_connectivity_rank": "lesser",
+        "personal_compare_percent": 100.0,
+        "concentration_rank": "distributed",
+        "obs": [
+            "At an overall level, There is a sparsely level of connectivity between the leaders (1.56 connections on an average), relative to other teams in the organization.",
+            "The leadership team's professional connectivity is lesser than 100.0% of teams in the organization.",
+            "The leadership team's personal connectivity is lesser than 100.0% of teams in the organization.",
+            "The communication within the Leadership team is more distributed. This is relative to the other teams in the org"
+        ]
+    },
+    "hierarchy_conn_pattern": {
+        "bar_graph": {
+            "leaders": {
+                "Upward": 0.0,
+                "Peer": 28.571428571428573,
+                "Downward": 71.42857142857143
+            },
+            "2, 3": {
+                "Upward": 21.738352241436278,
+                "Peer": 18.115981936336603,
+                "Downward": 60.145665822227116
+            },
+            "4": {
+                "Upward": 37.931034482758626,
+                "Peer": 18.10344827586207,
+                "Downward": 43.96551724137932
+            },
+            "5": {
+                "Upward": 50.857764566454904,
+                "Peer": 22.857531425462884,
+                "Downward": 26.28470400808222
+            },
+            "6": {
+                "Upward": 64.05193216191415,
+                "Peer": 16.99350847976073,
+                "Downward": 18.95455935832512
+            },
+            "7": {
+                "Upward": 73.71861316184714,
+                "Peer": 20.512766272502276,
+                "Downward": 5.768620565650584
+            },
+            "8, 9, 10": {
+                "Upward": 93.54726329643105,
+                "Peer": 6.452736703568939,
+                "Downward": 0.0
+            }
+        },
+        "max_conn_type": {
+            "leaders": "Peers",
+            "2, 3": "Downward",
+            "4": "Above",
+            "5": "Peers",
+            "6": "Downward",
+            "7": "Peers",
+            "8, 9, 10": "Downward"
+        },
+        "prominent_conn_type": "No Pattern"
+    },
+    "collab": {
+        "high_within": [
+            "People Function",
+            "Retail Training"
+        ],
+        "low_within": [
+            "People Function",
+            "Retail Training"
+        ],
+        "high_between": [
+            "Medical",
+            "Retail Training",
+            "Training Centre"
+        ],
+        "low_between": [
+            "Retail Training",
+            "Training Centre",
+            "People Function"
+        ],
+        "no_collaboration": [
+            "Medical",
+            "Training Centre"
+        ],
+        "no_collaboration_count": 2
+    },
+    "trust_tenure": {
+        "trust_percent": 11.43,
+        "connection": {
+            "atleast_one_conn_num": 112,
+            "atleast_one_conn_percent": 60.54,
+            "atleast_one_strong_conn_num": 17,
+            "atleast_one_strong_conn_percent": 9.19,
+            "strong_conn_nodes": [
+                24800,
+                24832,
+                24805,
+                24838,
+                24808,
+                24809,
+                24873,
+                24812,
+                24878,
+                24880,
+                24851,
+                24852,
+                24854,
+                24699,
+                24700,
+                24766,
+                24862
+            ],
+            "atleast_one_conn_nodes": [
+                1,
+                2,
+                2,
+                2,
+                2,
+                1,
+                2,
+                1,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1,
+                2,
+                1,
+                1,
+                1,
+                2,
+                3,
+                4,
+                2,
+                2,
+                4,
+                1,
+                1,
+                1,
+                2,
+                8,
+                2,
+                7,
+                1,
+                1,
+                4,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1,
+                4,
+                2,
+                13,
+                5,
+                9,
+                3,
+                2,
+                2,
+                1,
+                1,
+                2,
+                2,
+                2,
+                2,
+                1,
+                4,
+                4,
+                1,
+                1,
+                5,
+                2,
+                1,
+                1,
+                3,
+                2,
+                1,
+                1,
+                1,
+                6,
+                1,
+                4,
+                1,
+                2,
+                3,
+                2,
+                1,
+                3,
+                4,
+                3,
+                3,
+                2,
+                5,
+                1,
+                2,
+                4,
+                5,
+                6,
+                1,
+                1,
+                8,
+                3,
+                2,
+                1,
+                3,
+                3,
+                4,
+                1,
+                3,
+                16,
+                1,
+                1,
+                2,
+                2,
+                1,
+                1,
+                3,
+                2,
+                2,
+                2,
+                5,
+                2
+            ],
+            "num_total_nodes": 185,
+            "mutual_pairs_count": 10,
+            "disconnected_count": 19,
+            "disconnected_percent": 10.27
+        },
+        "tenure_plot": [
+            [
+                0,
+                0.4375
+            ],
+            [
+                1,
+                0.6111111111111112
+            ],
+            [
+                2,
+                1.0
+            ],
+            [
+                3,
+                1.3125
+            ],
+            [
+                4,
+                2.0
+            ],
+            [
+                5,
+                0.5
+            ],
+            [
+                6,
+                2.5
+            ],
+            [
+                7,
+                0.2857142857142857
+            ],
+            [
+                8,
+                3.0
+            ],
+            [
+                9,
+                3.5
+            ],
+            [
+                10,
+                0.75
+            ],
+            [
+                11,
+                1.8571428571428572
+            ],
+            [
+                12,
+                1.0
+            ],
+            [
+                14,
+                1.0
+            ],
+            [
+                18,
+                1.0
+            ],
+            [
+                19,
+                2.0
+            ],
+            [
+                24,
+                2.0
+            ],
+            [
+                28,
+                1.0
+            ],
+            [
+                30,
+                1.0
+            ],
+            [
+                32,
+                1.0
+            ],
+            [
+                35,
+                1.0
+            ]
+        ],
+        "avg_indegree": 1.06,
+        "tenure_trust_correlation": -0.26087775770038857,
+        "tenure_gender": {
+            "Female": {
+                "avg_indegree": 0.9,
+                "plot": [
+                    [
+                        0,
+                        0.47368421052631576
+                    ],
+                    [
+                        1,
+                        0.7222222222222222
+                    ],
+                    [
+                        2,
+                        1.1481481481481481
+                    ],
+                    [
+                        3,
+                        0.8
+                    ],
+                    [
+                        5,
+                        0.5
+                    ],
+                    [
+                        7,
+                        0.3333333333333333
+                    ],
+                    [
+                        8,
+                        3.0
+                    ],
+                    [
+                        9,
+                        3.5
+                    ],
+                    [
+                        10,
+                        0.5
+                    ],
+                    [
+                        11,
+                        2.5
+                    ],
+                    [
+                        12,
+                        2.0
+                    ],
+                    [
+                        18,
+                        1.0
+                    ]
+                ],
+                "corelation": -0.2805187436174443
+            },
+            "Male": {
+                "avg_indegree": 0.84,
+                "plot": [
+                    [
+                        0,
+                        0.38461538461538464
+                    ],
+                    [
+                        1,
+                        0.5
+                    ],
+                    [
+                        2,
+                        0.7333333333333333
+                    ],
+                    [
+                        3,
+                        2.1666666666666665
+                    ],
+                    [
+                        4,
+                        2.0
+                    ],
+                    [
+                        5,
+                        0.5
+                    ],
+                    [
+                        6,
+                        2.5
+                    ],
+                    [
+                        10,
+                        1.0
+                    ],
+                    [
+                        11,
+                        1.0
+                    ],
+                    [
+                        12,
+                        0.5
+                    ],
+                    [
+                        14,
+                        1.0
+                    ],
+                    [
+                        19,
+                        2.0
+                    ],
+                    [
+                        24,
+                        2.0
+                    ],
+                    [
+                        28,
+                        1.0
+                    ],
+                    [
+                        30,
+                        1.0
+                    ],
+                    [
+                        32,
+                        1.0
+                    ],
+                    [
+                        35,
+                        1.0
+                    ]
+                ],
+                "corelation": 0.023588472138392075
+            }
+        },
+        "tenure_department": {
+            "high_corr": [],
+            "mid_corr": [],
+            "low_corr": [
+                "People Function",
+                "Retail Training"
+            ],
+            "observation": [
+                "There are no departments having high correlation.",
+                "There are no departments having mid correlation.",
+                "2 departments have very weak or negligible correlation between tenure and trust, suggesting that time spent in the organization may have little to no impact on trust-building within these groups. They are People Function, Retail Training "
+            ]
+        }
+    },
+    "influencers": {
+        "influencers_count": 23,
+        "influencers_percentage": 12.43,
+        "influenced_count": 118,
+        "influenced_percentage": 72.84,
+        "influencers_non_managers": 9,
+        "influencers_non_managers_percentage": 39.13,
+        "influencers_non_managers_influenced_count": 84,
+        "influencers_non_managers_influenced_percentage": 47.73,
+        "non_leader_hierarchies": [
+            2,
+            3,
+            4,
+            5,
+            6,
+            7
+        ],
+        "non_leader_count": 19,
+        "non_leader_percentage": 82.61,
+        "non_leader_influenced_count": 119,
+        "non_leader_influenced_percentage": 71.69,
+        "leader_influencers_count": 4,
+        "leader_influencers_percentage": 0.021621621621621623,
+        "leader_influencers_influenced_count": 54,
+        "leader_influencers_influenced_percentage": 29.83
+    },
+    "onps": {
+        "onps_score": 82,
+        "promoters_count": 49,
+        "detractors_count": 13,
+        "high_influencial": "promoters (nps 9-10)",
+        "low_influencial": "detractors (nps 1-6)",
+        "influencial_count": 13,
+        "detractor_influenced": 47.0,
+        "promoter_influenced": 76.0
+    },
+    "tenure_inclusion": {
+        "equitable": [
+            {
+                "name": "Department",
+                "bias_entities": [
+                    "People Function",
+                    "Retail Training"
+                ]
+            },
+            {
+                "name": "Location",
+                "bias_entities": [
+                    "Bengaluru",
+                    "Hosur",
+                    "Mumbai"
+                ]
+            },
+            {
+                "name": "Legal Entity",
+                "bias_entities": [
+                    "Titan Company Limited"
+                ]
+            }
+        ],
+        "inequitable": [
+            {
+                "name": "Department",
+                "bias_entities": []
+            },
+            {
+                "name": "Location",
+                "bias_entities": []
+            },
+            {
+                "name": "Legal Entity",
+                "bias_entities": [
+                    "Titan Engineering and Automation Limited"
+                ]
+            }
+        ],
+        "classification": "equitable",
+        "network": "professional",
+        "network_percentage": 1.11,
+        "overall_bias": "none",
+        "bias_from_to": {
+            "from": "none",
+            "to": "none"
+        },
+        "total_equitable": 6,
+        "total_inequitable": 1
+    },
+    "gender_inclusion": {
+        "equitable": [
+            {
+                "name": "Department",
+                "bias_entities": [
+                    "People Function",
+                    "Retail Training"
+                ]
+            },
+            {
+                "name": "Location",
+                "bias_entities": [
+                    "Bengaluru",
+                    "Hosur",
+                    "Mumbai"
+                ]
+            },
+            {
+                "name": "Legal Entity",
+                "bias_entities": [
+                    "Titan Company Limited",
+                    "Titan Engineering and Automation Limited"
+                ]
+            }
+        ],
+        "inequitable": [
+            {
+                "name": "Department",
+                "bias_entities": []
+            },
+            {
+                "name": "Location",
+                "bias_entities": []
+            },
+            {
+                "name": "Legal Entity",
+                "bias_entities": []
+            }
+        ],
+        "classification": "equitable",
+        "network": "personal",
+        "network_percentage": 4.24,
+        "overall_bias": "none",
+        "bias_from_to": {
+            "from": "none",
+            "to": "none"
+        },
+        "total_equitable": 7,
+        "total_inequitable": 0
+    }
+}

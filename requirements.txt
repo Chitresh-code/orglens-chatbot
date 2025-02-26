@@ -1,0 +1,11 @@
+langchain-google-genai 
+langchain-community 
+langchain-chroma 
+langchain-core
+python-dotenv
+unstructured
+langgraph 
+langchain 
+streamlit
+chroma 
+jq
