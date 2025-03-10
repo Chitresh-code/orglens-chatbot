@@ -1,0 +1,1101 @@
+{
+    "indicator_1": {
+        "gender": {
+            "combined": {
+                "distribution": {
+                    "Male": {
+                        "count": 86,
+                        "percentage": 46.49
+                    },
+                    "Female": {
+                        "count": 99,
+                        "percentage": 53.51
+                    }
+                },
+                "classification": "equitable",
+                "bias_towards": "none",
+                "network": "none",
+                "bias_entities": {
+                    "dept": [
+                        {
+                            "name": "People Function",
+                            "value": "People-Function",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Retail Training",
+                            "value": "Retail-Training",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ],
+                    "loc": [
+                        {
+                            "name": "Bengaluru",
+                            "value": "Bengaluru",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Hosur",
+                            "value": "Hosur",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Mumbai",
+                            "value": "Mumbai",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ],
+                    "le": [
+                        {
+                            "name": "Titan Company Limited",
+                            "value": "Titan-Company-Limited",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Titan Engineering and Automation Limited",
+                            "value": "Titan-Engineering-and-Automation-Limited",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ]
+                },
+                "bias_entities_display_equitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": [
+                            "People Function",
+                            "Retail Training"
+                        ]
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Bengaluru",
+                            "Hosur",
+                            "Mumbai"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Company Limited",
+                            "Titan Engineering and Automation Limited"
+                        ]
+                    }
+                ],
+                "bias_entities_display_inequitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": []
+                    }
+                ]
+            },
+            "personal": {
+                "classification": "equitable",
+                "bias_towards": "none",
+                "network": "none",
+                "bias_entities": {
+                    "dept": [
+                        {
+                            "name": "People Function",
+                            "value": "People-Function",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Retail Training",
+                            "value": "Retail-Training",
+                            "equitable": 2,
+                            "inequitable": 1,
+                            "delta": 1
+                        }
+                    ],
+                    "loc": [
+                        {
+                            "name": "Bengaluru",
+                            "value": "Bengaluru",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Hosur",
+                            "value": "Hosur",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Mumbai",
+                            "value": "Mumbai",
+                            "equitable": 2,
+                            "inequitable": 1,
+                            "delta": 1
+                        }
+                    ],
+                    "le": [
+                        {
+                            "name": "Titan Company Limited",
+                            "value": "Titan-Company-Limited",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ]
+                },
+                "bias_entities_display_equitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": [
+                            "People Function",
+                            "Retail Training"
+                        ]
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Bengaluru",
+                            "Hosur",
+                            "Mumbai"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Company Limited"
+                        ]
+                    }
+                ],
+                "bias_entities_display_inequitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": []
+                    }
+                ]
+            },
+            "professional": {
+                "classification": "equitable",
+                "bias_towards": "none",
+                "network": "none",
+                "bias_entities": {
+                    "dept": [
+                        {
+                            "name": "People Function",
+                            "value": "People-Function",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Retail Training",
+                            "value": "Retail-Training",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ],
+                    "loc": [
+                        {
+                            "name": "Bengaluru",
+                            "value": "Bengaluru",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Hosur",
+                            "value": "Hosur",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Mumbai",
+                            "value": "Mumbai",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ],
+                    "le": [
+                        {
+                            "name": "Titan Company Limited",
+                            "value": "Titan-Company-Limited",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Titan Engineering and Automation Limited",
+                            "value": "Titan-Engineering-and-Automation-Limited",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ]
+                },
+                "bias_entities_display_equitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": [
+                            "People Function",
+                            "Retail Training"
+                        ]
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Bengaluru",
+                            "Hosur",
+                            "Mumbai"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Company Limited",
+                            "Titan Engineering and Automation Limited"
+                        ]
+                    }
+                ],
+                "bias_entities_display_inequitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": []
+                    }
+                ]
+            }
+        },
+        "tenure": {
+            "combined": {
+                "distribution": {
+                    "tenured": {
+                        "count": 149,
+                        "percentage": 80.54
+                    },
+                    "new hire": {
+                        "count": 36,
+                        "percentage": 19.46
+                    }
+                },
+                "classification": "equitable",
+                "bias_towards": "none",
+                "network": "none",
+                "bias_entities": {
+                    "dept": [
+                        {
+                            "name": "People Function",
+                            "value": "People-Function",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Retail Training",
+                            "value": "Retail-Training",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ],
+                    "loc": [
+                        {
+                            "name": "Bengaluru",
+                            "value": "Bengaluru",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Hosur",
+                            "value": "Hosur",
+                            "equitable": 2,
+                            "inequitable": 1,
+                            "delta": 1
+                        },
+                        {
+                            "name": "Mumbai",
+                            "value": "Mumbai",
+                            "equitable": 2,
+                            "inequitable": 1,
+                            "delta": 1
+                        }
+                    ],
+                    "le": [
+                        {
+                            "name": "Titan Company Limited",
+                            "value": "Titan-Company-Limited",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Titan Engineering and Automation Limited",
+                            "value": "Titan-Engineering-and-Automation-Limited",
+                            "equitable": 0,
+                            "inequitable": 2,
+                            "delta": -2
+                        }
+                    ]
+                },
+                "bias_entities_display_equitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": [
+                            "People Function",
+                            "Retail Training"
+                        ]
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Bengaluru",
+                            "Hosur",
+                            "Mumbai"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Company Limited"
+                        ]
+                    }
+                ],
+                "bias_entities_display_inequitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Engineering and Automation Limited"
+                        ]
+                    }
+                ]
+            },
+            "personal": {
+                "classification": "equitable",
+                "bias_towards": "none",
+                "network": "none",
+                "bias_entities": {
+                    "dept": [
+                        {
+                            "name": "People Function",
+                            "value": "People-Function",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Retail Training",
+                            "value": "Retail-Training",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ],
+                    "loc": [
+                        {
+                            "name": "Bengaluru",
+                            "value": "Bengaluru",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Hosur",
+                            "value": "Hosur",
+                            "equitable": 2,
+                            "inequitable": 1,
+                            "delta": 1
+                        },
+                        {
+                            "name": "Mumbai",
+                            "value": "Mumbai",
+                            "equitable": 2,
+                            "inequitable": 1,
+                            "delta": 1
+                        }
+                    ],
+                    "le": [
+                        {
+                            "name": "Titan Company Limited",
+                            "value": "Titan-Company-Limited",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ]
+                },
+                "bias_entities_display_equitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": [
+                            "People Function",
+                            "Retail Training"
+                        ]
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Bengaluru",
+                            "Hosur",
+                            "Mumbai"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Company Limited"
+                        ]
+                    }
+                ],
+                "bias_entities_display_inequitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": []
+                    }
+                ]
+            },
+            "professional": {
+                "classification": "equitable",
+                "bias_towards": "none",
+                "network": "none",
+                "bias_entities": {
+                    "dept": [
+                        {
+                            "name": "People Function",
+                            "value": "People-Function",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Retail Training",
+                            "value": "Retail-Training",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        }
+                    ],
+                    "loc": [
+                        {
+                            "name": "Bengaluru",
+                            "value": "Bengaluru",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Hosur",
+                            "value": "Hosur",
+                            "equitable": 2,
+                            "inequitable": 1,
+                            "delta": 1
+                        },
+                        {
+                            "name": "Mumbai",
+                            "value": "Mumbai",
+                            "equitable": 2,
+                            "inequitable": 1,
+                            "delta": 1
+                        }
+                    ],
+                    "le": [
+                        {
+                            "name": "Titan Company Limited",
+                            "value": "Titan-Company-Limited",
+                            "equitable": 2,
+                            "inequitable": 0,
+                            "delta": 2
+                        },
+                        {
+                            "name": "Titan Engineering and Automation Limited",
+                            "value": "Titan-Engineering-and-Automation-Limited",
+                            "equitable": 0,
+                            "inequitable": 2,
+                            "delta": -2
+                        }
+                    ]
+                },
+                "bias_entities_display_equitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": [
+                            "People Function",
+                            "Retail Training"
+                        ]
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Bengaluru",
+                            "Hosur",
+                            "Mumbai"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Company Limited"
+                        ]
+                    }
+                ],
+                "bias_entities_display_inequitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Engineering and Automation Limited"
+                        ]
+                    }
+                ]
+            }
+        },
+        "hierarchy_level": {
+            "combined": {
+                "distribution": {
+                    "6": {
+                        "count": 52,
+                        "percentage": 28.11
+                    },
+                    "8": {
+                        "count": 8,
+                        "percentage": 4.32
+                    },
+                    "4": {
+                        "count": 25,
+                        "percentage": 13.51
+                    },
+                    "5": {
+                        "count": 34,
+                        "percentage": 18.38
+                    },
+                    "3": {
+                        "count": 13,
+                        "percentage": 7.03
+                    },
+                    "2": {
+                        "count": 6,
+                        "percentage": 3.24
+                    },
+                    "1": {
+                        "count": 10,
+                        "percentage": 5.41
+                    },
+                    "7": {
+                        "count": 33,
+                        "percentage": 17.84
+                    },
+                    "9": {
+                        "count": 1,
+                        "percentage": 0.54
+                    },
+                    "10": {
+                        "count": 3,
+                        "percentage": 1.62
+                    }
+                },
+                "classification": "equitable",
+                "bias_towards": "none",
+                "network": "none",
+                "bias_entities": {
+                    "dept": [
+                        {
+                            "name": "People Function",
+                            "value": "People-Function",
+                            "equitable": 14,
+                            "inequitable": 4,
+                            "delta": 10
+                        },
+                        {
+                            "name": "Retail Training",
+                            "value": "Retail-Training",
+                            "equitable": 4,
+                            "inequitable": 0,
+                            "delta": 4
+                        }
+                    ],
+                    "loc": [
+                        {
+                            "name": "Bengaluru",
+                            "value": "Bengaluru",
+                            "equitable": 14,
+                            "inequitable": 0,
+                            "delta": 14
+                        },
+                        {
+                            "name": "Hosur",
+                            "value": "Hosur",
+                            "equitable": 7,
+                            "inequitable": 3,
+                            "delta": 4
+                        },
+                        {
+                            "name": "Mumbai",
+                            "value": "Mumbai",
+                            "equitable": 5,
+                            "inequitable": 4,
+                            "delta": 1
+                        }
+                    ],
+                    "le": [
+                        {
+                            "name": "Titan Company Limited",
+                            "value": "Titan-Company-Limited",
+                            "equitable": 14,
+                            "inequitable": 4,
+                            "delta": 10
+                        },
+                        {
+                            "name": "Titan Engineering and Automation Limited",
+                            "value": "Titan-Engineering-and-Automation-Limited",
+                            "equitable": 2,
+                            "inequitable": 6,
+                            "delta": -4
+                        }
+                    ]
+                },
+                "bias_entities_display_equitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": [
+                            "People Function",
+                            "Retail Training"
+                        ]
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Bengaluru",
+                            "Hosur",
+                            "Mumbai"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Company Limited"
+                        ]
+                    }
+                ],
+                "bias_entities_display_inequitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Engineering and Automation Limited"
+                        ]
+                    }
+                ]
+            },
+            "personal": {
+                "classification": "equitable",
+                "bias_towards": "none",
+                "network": "none",
+                "bias_entities": {
+                    "dept": [
+                        {
+                            "name": "People Function",
+                            "value": "People-Function",
+                            "equitable": 13,
+                            "inequitable": 5,
+                            "delta": 8
+                        },
+                        {
+                            "name": "Retail Training",
+                            "value": "Retail-Training",
+                            "equitable": 3,
+                            "inequitable": 2,
+                            "delta": 1
+                        }
+                    ],
+                    "loc": [
+                        {
+                            "name": "Bengaluru",
+                            "value": "Bengaluru",
+                            "equitable": 12,
+                            "inequitable": 2,
+                            "delta": 10
+                        },
+                        {
+                            "name": "Hosur",
+                            "value": "Hosur",
+                            "equitable": 6,
+                            "inequitable": 5,
+                            "delta": 1
+                        },
+                        {
+                            "name": "Mumbai",
+                            "value": "Mumbai",
+                            "equitable": 1,
+                            "inequitable": 7,
+                            "delta": -6
+                        }
+                    ],
+                    "le": [
+                        {
+                            "name": "Titan Company Limited",
+                            "value": "Titan-Company-Limited",
+                            "equitable": 13,
+                            "inequitable": 5,
+                            "delta": 8
+                        }
+                    ]
+                },
+                "bias_entities_display_equitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": [
+                            "People Function",
+                            "Retail Training"
+                        ]
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Bengaluru",
+                            "Hosur"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Company Limited"
+                        ]
+                    }
+                ],
+                "bias_entities_display_inequitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Mumbai"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": []
+                    }
+                ]
+            },
+            "professional": {
+                "classification": "equitable",
+                "bias_towards": "none",
+                "network": "none",
+                "bias_entities": {
+                    "dept": [
+                        {
+                            "name": "People Function",
+                            "value": "People-Function",
+                            "equitable": 14,
+                            "inequitable": 4,
+                            "delta": 10
+                        },
+                        {
+                            "name": "Retail Training",
+                            "value": "Retail-Training",
+                            "equitable": 4,
+                            "inequitable": 0,
+                            "delta": 4
+                        }
+                    ],
+                    "loc": [
+                        {
+                            "name": "Bengaluru",
+                            "value": "Bengaluru",
+                            "equitable": 14,
+                            "inequitable": 0,
+                            "delta": 14
+                        },
+                        {
+                            "name": "Hosur",
+                            "value": "Hosur",
+                            "equitable": 7,
+                            "inequitable": 3,
+                            "delta": 4
+                        },
+                        {
+                            "name": "Mumbai",
+                            "value": "Mumbai",
+                            "equitable": 5,
+                            "inequitable": 4,
+                            "delta": 1
+                        }
+                    ],
+                    "le": [
+                        {
+                            "name": "Titan Company Limited",
+                            "value": "Titan-Company-Limited",
+                            "equitable": 14,
+                            "inequitable": 4,
+                            "delta": 10
+                        },
+                        {
+                            "name": "Titan Engineering and Automation Limited",
+                            "value": "Titan-Engineering-and-Automation-Limited",
+                            "equitable": 2,
+                            "inequitable": 6,
+                            "delta": -4
+                        }
+                    ]
+                },
+                "bias_entities_display_equitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": [
+                            "People Function",
+                            "Retail Training"
+                        ]
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": [
+                            "Bengaluru",
+                            "Hosur",
+                            "Mumbai"
+                        ]
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Company Limited"
+                        ]
+                    }
+                ],
+                "bias_entities_display_inequitable": [
+                    {
+                        "name": "Department",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Location",
+                        "bias_entities": []
+                    },
+                    {
+                        "name": "Legal Entity",
+                        "bias_entities": [
+                            "Titan Engineering and Automation Limited"
+                        ]
+                    }
+                ]
+            }
+        }
+    },
+    "indicator_2": {
+        "leaders_high_inc_count": 2,
+        "leaders_high_inc_percentage": 33.0,
+        "leaders_low_inc_count": 4,
+        "leaders_low_inc_percentage": 67.0,
+        "demographic": {
+            "gender": {
+                "leaders_high_inc_count": 3,
+                "leaders_low_inc_count": 3,
+                "leaders_high_inc_percentage": 50.0,
+                "leaders_low_inc_percentage": 50.0
+            },
+            "tenure": {
+                "leaders_high_inc_count": 2,
+                "leaders_low_inc_count": 4,
+                "leaders_high_inc_percentage": 33.0,
+                "leaders_low_inc_percentage": 67.0
+            },
+            "hierarchy_level": {
+                "leaders_high_inc_count": 1,
+                "leaders_low_inc_count": 5,
+                "leaders_high_inc_percentage": 17.0,
+                "leaders_low_inc_percentage": 83.0
+            }
+        },
+        "total_leaders": 10,
+        "total_leaders_participated": 6
+    },
+    "indicator_3": {
+        "gender": {
+            "Male": {
+                "influencer_count": 15,
+                "influencer_percentage_total": 65.22,
+                "influencer_percentage_dg": 17.44,
+                "count": 86,
+                "reach": 108,
+                "reach_percentage": 58.0
+            },
+            "Female": {
+                "influencer_count": 8,
+                "influencer_percentage_total": 34.78,
+                "influencer_percentage_dg": 8.08,
+                "count": 99,
+                "reach": 70,
+                "reach_percentage": 38.0
+            }
+        },
+        "tenure": {
+            "New-Hire": {
+                "influencer_count": 0,
+                "influencer_percentage_total": 0.0,
+                "influencer_percentage_dg": 0.0,
+                "count": 36,
+                "reach": 0,
+                "reach_percentage": 0.0
+            },
+            "Tenured": {
+                "influencer_count": 23,
+                "influencer_percentage_total": 100.0,
+                "influencer_percentage_dg": 15.44,
+                "count": 149,
+                "reach": 118,
+                "reach_percentage": 64.0
+            }
+        },
+        "hierarchy_level": {
+            "7": {
+                "influencer_count": 1,
+                "influencer_percentage_total": 4.35,
+                "influencer_percentage_dg": 3.03,
+                "count": 33,
+                "reach": 15,
+                "reach_percentage": 8.0
+            },
+            "6": {
+                "influencer_count": 2,
+                "influencer_percentage_total": 8.7,
+                "influencer_percentage_dg": 3.85,
+                "count": 52,
+                "reach": 24,
+                "reach_percentage": 13.0
+            },
+            "8": {
+                "influencer_count": 0,
+                "influencer_percentage_total": 0.0,
+                "influencer_percentage_dg": 0.0,
+                "count": 8,
+                "reach": 0,
+                "reach_percentage": 0.0
+            },
+            "4": {
+                "influencer_count": 6,
+                "influencer_percentage_total": 26.09,
+                "influencer_percentage_dg": 24.0,
+                "count": 25,
+                "reach": 53,
+                "reach_percentage": 29.0
+            },
+            "5": {
+                "influencer_count": 5,
+                "influencer_percentage_total": 21.74,
+                "influencer_percentage_dg": 14.71,
+                "count": 34,
+                "reach": 50,
+                "reach_percentage": 27.0
+            },
+            "3": {
+                "influencer_count": 4,
+                "influencer_percentage_total": 17.39,
+                "influencer_percentage_dg": 30.77,
+                "count": 13,
+                "reach": 57,
+                "reach_percentage": 31.0
+            },
+            "2": {
+                "influencer_count": 1,
+                "influencer_percentage_total": 4.35,
+                "influencer_percentage_dg": 16.67,
+                "count": 6,
+                "reach": 14,
+                "reach_percentage": 8.0
+            },
+            "1": {
+                "influencer_count": 4,
+                "influencer_percentage_total": 17.39,
+                "influencer_percentage_dg": 40.0,
+                "count": 10,
+                "reach": 39,
+                "reach_percentage": 21.0
+            },
+            "9": {
+                "influencer_count": 0,
+                "influencer_percentage_total": 0.0,
+                "influencer_percentage_dg": 0.0,
+                "count": 1,
+                "reach": 0,
+                "reach_percentage": 0.0
+            },
+            "10": {
+                "influencer_count": 0,
+                "influencer_percentage_total": 0.0,
+                "influencer_percentage_dg": 0.0,
+                "count": 3,
+                "reach": 0,
+                "reach_percentage": 0.0
+            }
+        }
+    }
+}

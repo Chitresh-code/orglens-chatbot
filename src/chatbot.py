@@ -6,6 +6,7 @@ from langchain_core.documents import Document
 from langgraph.graph import START, StateGraph
 from typing_extensions import List, TypedDict
 from langchain_core.vectorstores import InMemoryVectorStore
+from langchain_core.prompts import PromptTemplate
 from dotenv import load_dotenv
 from langchain import hub
 from pathlib import Path
@@ -48,7 +49,21 @@ def load_data():
     _ = vector_store.add_documents(documents=all_splits)    
 
 # Define prompt for question-answering
-prompt = hub.pull("rlm/rag-prompt")
+template = """You are a chatbot assistant for Orglens specializing in answering questions about ONA Reports.
+Use the following pieces of context to answer the question at the end.
+If you don't know the answer, just say that you don't know, don't try to make up an answer.
+Use three sentences maximum and keep the answer as detailed as possible.
+Be smart in answering the questions and do not mention things like "More information is needed".
+If you can answer the question, do not mention at the end that the exact answer is not available.
+Also if you think the question is not clear, you can ask for clarification or suggest a rephrased question.
+
+Context:
+{context}
+
+Question: {question}
+
+Helpful Answer:"""
+custom_rag_prompt = PromptTemplate.from_template(template)
 
 # Define state for application
 class State(TypedDict):
@@ -63,7 +78,7 @@ def retrieve(state: State):
 
 def generate(state: State):
     docs_content = "\n\n".join(doc.page_content for doc in state["context"])
-    messages = prompt.invoke({"question": state["question"], "context": docs_content})
+    messages = custom_rag_prompt.invoke({"question": state["question"], "context": docs_content})
     response = llm.invoke(messages)
     return {"answer": response.content}
 
