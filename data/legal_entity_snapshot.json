@@ -1519,7 +1519,7 @@
                 }
             }
         },
-        "Titan Engineering and Automation Limited": {
+        "Enineering Company": {
             "Combined": {
                 "reached_out_table": {
                     "Error": "There are no individuals who are disproportionately reached out to by others in this network. This could also imply a distributed network, where individuals are reached out uniformly, or a fragmented network where connections are minimal."
@@ -1934,7 +1934,7 @@
                             "hierarchy_level": 4,
                             "department": "People Function",
                             "location": "Hosur",
-                            "legal_entity": "Titan Engineering and Automation Limited",
+                            "legal_entity": "Enineering Company",
                             "reaching_out": 1,
                             "Rank": 1
                         }
@@ -2049,7 +2049,7 @@
                     "disconnected": 13
                 },
                 {
-                    "Name": "Titan Engineering and Automation Limited",
+                    "Name": "Enineering Company",
                     "Size": 10,
                     "Average connection": 2,
                     "Average frequncy": "Weekly",
@@ -2067,7 +2067,7 @@
                     "disconnected": 14
                 },
                 {
-                    "Name": "Titan Engineering and Automation Limited",
+                    "Name": "Enineering Company",
                     "Size": 10,
                     "Average connection": 2,
                     "Average frequncy": "Weekly",
@@ -2095,7 +2095,7 @@
                     "disconnected": 32
                 },
                 {
-                    "Name": "Titan Engineering and Automation Limited",
+                    "Name": "Enineering Company",
                     "Size": 10,
                     "Average connection": 1,
                     "Average frequncy": "Weekly",
@@ -2113,7 +2113,7 @@
                     "disconnected": 41
                 },
                 {
-                    "Name": "Titan Engineering and Automation Limited",
+                    "Name": "Enineering Company",
                     "Size": 10,
                     "Average connection": 1,
                     "Average frequncy": "Weekly",
@@ -2131,7 +2131,7 @@
                     "disconnected": 19
                 },
                 {
-                    "Name": "Titan Engineering and Automation Limited",
+                    "Name": "Enineering Company",
                     "Size": 10,
                     "Average connection": 0,
                     "Average frequncy": "Weekly",
@@ -2174,7 +2174,7 @@
                     "Energy": 10.3
                 },
                 {
-                    "Name": "Titan Engineering and Automation Limited",
+                    "Name": "Enineering Company",
                     "size": 10,
                     "professional": 100.0,
                     "personal": 0.0,

@@ -64,7 +64,7 @@
                             "delta": 2
                         },
                         {
-                            "name": "Titan Engineering and Automation Limited",
+                            "name": "Enineering Company",
                             "value": "Titan-Engineering-and-Automation-Limited",
                             "equitable": 2,
                             "inequitable": 0,
@@ -92,7 +92,7 @@
                         "name": "Legal Entity",
                         "bias_entities": [
                             "Titan Company Limited",
-                            "Titan Engineering and Automation Limited"
+                            "Enineering Company"
                         ]
                     }
                 ],
@@ -256,7 +256,7 @@
                             "delta": 2
                         },
                         {
-                            "name": "Titan Engineering and Automation Limited",
+                            "name": "Enineering Company",
                             "value": "Titan-Engineering-and-Automation-Limited",
                             "equitable": 2,
                             "inequitable": 0,
@@ -284,7 +284,7 @@
                         "name": "Legal Entity",
                         "bias_entities": [
                             "Titan Company Limited",
-                            "Titan Engineering and Automation Limited"
+                            "Enineering Company"
                         ]
                     }
                 ],
@@ -368,7 +368,7 @@
                             "delta": 2
                         },
                         {
-                            "name": "Titan Engineering and Automation Limited",
+                            "name": "Enineering Company",
                             "value": "Titan-Engineering-and-Automation-Limited",
                             "equitable": 0,
                             "inequitable": 2,
@@ -411,7 +411,7 @@
                     {
                         "name": "Legal Entity",
                         "bias_entities": [
-                            "Titan Engineering and Automation Limited"
+                            "Enineering Company"
                         ]
                     }
                 ]
@@ -561,7 +561,7 @@
                             "delta": 2
                         },
                         {
-                            "name": "Titan Engineering and Automation Limited",
+                            "name": "Enineering Company",
                             "value": "Titan-Engineering-and-Automation-Limited",
                             "equitable": 0,
                             "inequitable": 2,
@@ -604,7 +604,7 @@
                     {
                         "name": "Legal Entity",
                         "bias_entities": [
-                            "Titan Engineering and Automation Limited"
+                            "Enineering Company"
                         ]
                     }
                 ]
@@ -706,7 +706,7 @@
                             "delta": 10
                         },
                         {
-                            "name": "Titan Engineering and Automation Limited",
+                            "name": "Enineering Company",
                             "value": "Titan-Engineering-and-Automation-Limited",
                             "equitable": 2,
                             "inequitable": 6,
@@ -749,7 +749,7 @@
                     {
                         "name": "Legal Entity",
                         "bias_entities": [
-                            "Titan Engineering and Automation Limited"
+                            "Enineering Company"
                         ]
                     }
                 ]
@@ -900,7 +900,7 @@
                             "delta": 10
                         },
                         {
-                            "name": "Titan Engineering and Automation Limited",
+                            "name": "Enineering Company",
                             "value": "Titan-Engineering-and-Automation-Limited",
                             "equitable": 2,
                             "inequitable": 6,
@@ -943,7 +943,7 @@
                     {
                         "name": "Legal Entity",
                         "bias_entities": [
-                            "Titan Engineering and Automation Limited"
+                            "Enineering Company"
                         ]
                     }
                 ]

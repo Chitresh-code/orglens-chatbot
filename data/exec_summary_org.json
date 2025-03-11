@@ -45,7 +45,7 @@
             },
             "legal_entity": {
                 "Titan Company Limited": 94.59,
-                "Titan Engineering and Automation Limited": 5.41
+                "Enineering Company": 5.41
             }
         },
         "entity_distribution": {
@@ -257,7 +257,7 @@
                         "percent": 94.59
                     },
                     {
-                        "entity": "Titan Engineering and Automation Limited",
+                        "entity": "Enineering Company",
                         "count": 10,
                         "percent": 5.41
                     }
@@ -898,7 +898,7 @@
             {
                 "name": "Legal Entity",
                 "bias_entities": [
-                    "Titan Engineering and Automation Limited"
+                    "Enineering Company"
                 ]
             }
         ],
@@ -934,7 +934,7 @@
                 "name": "Legal Entity",
                 "bias_entities": [
                     "Titan Company Limited",
-                    "Titan Engineering and Automation Limited"
+                    "Enineering Company"
                 ]
             }
         ],
