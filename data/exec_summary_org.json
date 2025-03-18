@@ -44,7 +44,7 @@
                 "Others": 2.16
             },
             "legal_entity": {
-                "Titan Company Limited": 94.59,
+                "Company Limited": 94.59,
                 "Enineering Company": 5.41
             }
         },
@@ -252,7 +252,7 @@
             "legal_entity": {
                 "table": [
                     {
-                        "entity": "Titan Company Limited",
+                        "entity": "Company Limited",
                         "count": 175,
                         "percent": 94.59
                     },
@@ -882,7 +882,7 @@
             {
                 "name": "Legal Entity",
                 "bias_entities": [
-                    "Titan Company Limited"
+                    "Company Limited"
                 ]
             }
         ],
@@ -933,7 +933,7 @@
             {
                 "name": "Legal Entity",
                 "bias_entities": [
-                    "Titan Company Limited",
+                    "Company Limited",
                     "Enineering Company"
                 ]
             }

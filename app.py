@@ -1,4 +1,4 @@
-from src.chatbot import chat, load_data
+from src.chatbot import chat
 import streamlit as st
 import os
 
@@ -9,23 +9,23 @@ st.set_page_config(page_title="Orglens Chatbot", page_icon="📜")
 st.title("📜 Orglens Chatbot! 🤖")
 st.write("Ask me anything related to your organization!")
 
-# Load data if not already loaded
-if "data_loaded" not in st.session_state:
-    st.session_state.data_loaded = False
+# # Load data if not already loaded
+# if "data_loaded" not in st.session_state:
+#     st.session_state.data_loaded = False
     
-if not st.session_state.data_loaded:
-    load_data()
-    st.session_state.data_loaded = True
+# if not st.session_state.data_loaded:
+#     load_data()
+#     st.session_state.data_loaded = True
 
-# Suggested questions
-suggested_questions = [
-    "What is the gender diversity ratio?",
-    "Percentages of disconnected individuals in the organization?",
-    "List of employees that are most reached out to",
-    "Distribution of employees between departments",
-    "Distribution of employees between different locations",
-    "What is the employee engagement score?",
-]
+# # Suggested questions
+# suggested_questions = [
+#     "What is the gender diversity ratio?",
+#     "Percentages of disconnected individuals in the organization?",
+#     "List of employees that are most reached out to",
+#     "Distribution of employees between departments",
+#     "Distribution of employees between different locations",
+#     "What is the employee engagement score?",
+# ]
 
 # Session state for memory
 if "messages" not in st.session_state:
@@ -39,13 +39,13 @@ for message in st.session_state.messages:
     role, text = message
     st.chat_message(role).write(text)
 
-# Display suggested questions as buttons
-st.write("💡 **Suggested Questions:**")
-cols = st.columns(len(suggested_questions))
+# # Display suggested questions as buttons
+# st.write("💡 **Suggested Questions:**")
+# cols = st.columns(len(suggested_questions))
 
-for i, question in enumerate(suggested_questions):
-    if cols[i].button(question):
-        st.session_state.selected_question = question  # Store selected question
+# for i, question in enumerate(suggested_questions):
+#     if cols[i].button(question):
+#         st.session_state.selected_question = question  # Store selected question
 
 # Use selected question if available, else wait for user input
 user_query = st.chat_input("Type your question here...")

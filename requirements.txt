@@ -1,10 +1,8 @@
-streamlit-chromadb-connection
-langchain-google-genai 
-langchain-community 
-langchain-core
-python-dotenv
-unstructured
-langgraph 
+langchain_community 
+langchain_core 
+langchain_google_genai 
+jq 
 langchain 
+langgraph
 streamlit
-jq
+python-dotenv
