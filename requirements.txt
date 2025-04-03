@@ -6,3 +6,4 @@ langchain
 langgraph
 streamlit
 python-dotenv
+bs4
