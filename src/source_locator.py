@@ -89,7 +89,7 @@ def generate_link(title: str):
      - Link to the website
     """
     title = title.strip().lower().replace(" ", "-")
-    link = f"http://127.0.0.1:3000/backend/data/index.html#{title}"
+    link = f'{os.getenv("FRONTEND_URL","http://127.0.0.1:3000/backend/data/index.html")}#{title}'
     return link
 
 def handle_tool_error(state) -> dict:
