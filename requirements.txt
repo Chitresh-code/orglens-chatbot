@@ -1,6 +1,7 @@
 langchain_community 
 langchain_core 
 langchain_google_genai 
+langchain_openai
 jq 
 langchain 
 langgraph
