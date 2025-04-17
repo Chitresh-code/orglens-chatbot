@@ -1,5 +1,6 @@
-from src.chatbot import chat
+# from src.chatbot import chat
 # from src.source_locator import chat
+from src.chatbotv2 import chat
 import streamlit as st
 import os
 

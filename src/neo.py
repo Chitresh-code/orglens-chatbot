@@ -1,4 +1,4 @@
-from neo4j import GraphDatabase
+from neo4j import GraphDatabase, basic_auth
 from dotenv import load_dotenv
 import json
 import os
@@ -7,8 +7,10 @@ load_dotenv()
 
 class Neo4jConnector:
     def __init__(self, uri, user, password):
-        # Initialize connection to Neo4j database
-        self.driver = GraphDatabase.driver(uri, auth=(user, password))
+        self.driver = GraphDatabase.driver(
+            uri, 
+            auth=basic_auth(user, password),
+        )
 
     def close(self):
         # Close the database connection
@@ -114,7 +116,32 @@ class Neo4jConnector:
             MATCH (src:Person {id: $source}), (tgt:Person {id: $target})
             MERGE (src)-[:IS_CONNECTED]->(tgt)
         """, source=source, target=target)
+        
+    def view_graph_details(self):
+        with self.driver.session() as session:
+            node_count = session.run("MATCH (n) RETURN count(n) AS node_count").single()["node_count"]
+            rel_count = session.run("MATCH ()-[r]->() RETURN count(r) AS rel_count").single()["rel_count"]
+            print(f"Total Nodes: {node_count}")
+            print(f"Total Relationships: {rel_count}")
 
+    def view_schema(self):
+        with self.driver.session() as session:
+            labels = session.run("CALL db.labels() YIELD label RETURN label").value()
+            rel_types = session.run("CALL db.relationshipTypes() YIELD relationshipType RETURN relationshipType").value()
+            prop_keys = session.run("CALL db.propertyKeys() YIELD propertyKey RETURN propertyKey").value()
+
+            print("\nNode Labels:")
+            for label in labels:
+                print(f"  - {label}")
+
+            print("\nRelationship Types:")
+            for rel in rel_types:
+                print(f"  - {rel}")
+
+            print("\nProperty Keys:")
+            for key in prop_keys:
+                print(f"  - {key}")
+                
 if __name__ == "__main__":
     connector = Neo4jConnector(
         uri=os.getenv("NEO4J_URI"),
@@ -123,11 +150,17 @@ if __name__ == "__main__":
     )
     
     # Load JSON data
-    nodes, edges = connector.load_json("data/cyto.json")
+    nodes, edges = connector.load_json(r"C:\Orglens_Official\chatbot\cyto.json")
     
     # Create graph in Neo4j
     connector.create_graph(nodes, edges)
     
+    print("Graph created successfully in Neo4j database.")
+    
+    # View details and schema
+    connector.view_graph_details()
+    connector.view_schema()
+
     # Close the connection
     connector.close()
-    print("Graph created successfully in Neo4j database.")
+    print("Graph created and introspected successfully.")
