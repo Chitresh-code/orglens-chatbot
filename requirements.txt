@@ -2,6 +2,8 @@ langchain_community
 langchain_core 
 langchain_google_genai 
 langchain_openai
+langchain_neo4j
+neo4j
 openai
 jq 
 langchain 
